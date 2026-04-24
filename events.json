@@ -1,146 +1,7 @@
 {
-  "updatedAt": "2026-04-23T16:14:35+09:00",
-  "performerDirectoryUpdatedAt": "2026-04-23T12:12:24+09:00",
+  "updatedAt": "2026-04-24T04:36:38+00:00",
+  "performerDirectoryUpdatedAt": "2026-04-24T04:36:22+00:00",
   "events": [
-    {
-      "id": "geikyo-jyoseki-17142",
-      "title": "お江戸上野広小路亭 四月下席（芸術家等人材育成公演）　4月23日〜23日",
-      "category": "yose",
-      "categoryLabel": "寄席",
-      "startAt": "2026-04-23T12:00:00+09:00",
-      "endAt": "2026-04-23T20:30:00+09:00",
-      "venueName": "お江戸上野広小路亭",
-      "area": "上野",
-      "prefecture": "東京都",
-      "performers": [
-
-      ],
-      "description": "落語芸術協会の定席スケジュール掲載情報。",
-      "sourceName": "落語芸術協会",
-      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17142",
-      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17142",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-xrbtvuag247",
-      "title": "鶴めい七叶亭",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-04-23T14:00:00+09:00",
-      "venueName": "鶴めいホール",
-      "venueAddress": "千代田区飯田橋2-5-4",
-      "prefecture": "東京都",
-      "performers": [
-        "三遊亭 志う歌",
-        "三遊亭 わん丈"
-      ],
-      "performerIds": [
-        "qkle5vz05z"
-      ],
-      "priceText": "当　日: 2,500円 / その他: 学生2,000円",
-      "description": "一般社団法人落語協会のホームページ。2026年04月23日：鶴めい七叶亭ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/xrbtvuag247",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/xrbtvuag247",
-      "lastConfirmedAt": "2026-04-23T16:14:32+09:00",
-      "fetchedAt": "2026-04-23T16:14:32+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-5jqbggld3",
-      "title": "日本橋　第2回　吉窓・たけ平落語会－ぞんぶんに古典落語",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-04-23T14:00:00+09:00",
-      "venueName": "アートスペース兜座",
-      "venueAddress": "〒103-0026 東京都中央区日本橋兜町１１ 兜町中央ビル",
-      "prefecture": "東京都",
-      "performers": [
-        "三遊亭 吉窓",
-        "林家 たけ平"
-      ],
-      "performerIds": [
-        "pttnw4ntalf6",
-        "a4edeqti5azw"
-      ],
-      "priceText": "前　売: 3000円 / 当　日: 3000円",
-      "description": "一般社団法人落語協会のホームページ。2026年04月23日：日本橋　第2回　吉窓・たけ平落語会－ぞんぶんに古典落語ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/5jqbggld3",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/5jqbggld3",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-5xc6ixic1",
-      "title": "鶴見ひるま寄席",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-04-23T14:00:00+09:00",
-      "venueName": "横浜市鶴見区民文化センター　サルビアホール3階/音楽ホール",
-      "venueAddress": "横浜市鶴見区鶴見中央1-31-2",
-      "prefecture": "神奈川県",
-      "performers": [
-        "三遊亭 司",
-        "柳家 小志ん",
-        "林家 はな平",
-        "柳家 花ごめ"
-      ],
-      "performerIds": [
-        "un8f2s09juiy"
-      ],
-      "priceText": "前　売: 2,000円 / 当　日: 2,000円 / その他: はまっこ割(横浜市在住、在勤の方は入場料1,800円)",
-      "description": "一般社団法人落語協会のホームページ。2026年04月23日：鶴見ひるま寄席ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/5xc6ixic1",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/5xc6ixic1",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-ht-g-vgb2",
-      "title": "深煎りわか馬【第一回】",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-04-23T18:20:00+09:00",
-      "venueName": "早苗",
-      "venueAddress": "新宿区戸塚町１丁目１０２",
-      "area": "新宿",
-      "prefecture": "東京都",
-      "performers": [
-        "柳家 わか馬"
-      ],
-      "performerIds": [
-        "77w319w67rh9"
-      ],
-      "priceText": "前　売: 1,500円（学割1,000円） / 当　日: 1,500円（学割1,000円） / その他: 別途ワンドリンクオーダーをお願い致します。",
-      "description": "一般社団法人落語協会のホームページ。2026年04月23日：深煎りわか馬【第一回】ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/ht_g-vgb2",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/ht_g-vgb2",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-krn7peazs4f1",
-      "title": "第5回　小太郎まかり通る",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-04-23T18:45:00+09:00",
-      "venueName": "赤坂会館",
-      "venueAddress": "港区赤坂２丁目１３−５ 赤坂会館ビル　6階",
-      "prefecture": "東京都",
-      "performers": [
-        "柳家 小太郎"
-      ],
-      "priceText": "前　売: 2500円 / 当　日: 2800円",
-      "description": "一般社団法人落語協会のホームページ。2026年04月23日：第5回　小太郎まかり通るページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/krn7peazs4f1",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/krn7peazs4f1",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
-    },
     {
       "id": "rakugo-kyokai-rakugokai-znta-uv5mmvy",
       "title": "金原亭馬吉にただただ落語をほめてもらう会",
@@ -167,8 +28,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/znta-uv5mmvy",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/znta-uv5mmvy",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:24+00:00",
+      "fetchedAt": "2026-04-24T04:36:24+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-biq4orhaux8",
@@ -191,52 +52,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/biq4orhaux8",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/biq4orhaux8",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-mq3sl9bnihu",
-      "title": "4月　池袋特選会　柳家緑太独演会",
-      "category": "dokuenkai",
-      "categoryLabel": "独演会",
-      "startAt": "2026-04-24T18:30:00+09:00",
-      "venueName": "池袋演芸場",
-      "venueAddress": "豊島区西池袋1-23-1　エルクルーセＢ2",
-      "area": "池袋",
-      "prefecture": "東京都",
-      "performers": [
-        "柳家 緑太"
-      ],
-      "priceText": "前　売: 3,500円 / 当　日: 4,000円",
-      "description": "一般社団法人落語協会のホームページ。2026年04月24日：4月　池袋特選会　柳家緑太独演会ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/mq3sl9bnihu",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/mq3sl9bnihu",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-xccxjovfdhe",
-      "title": "志う歌く祭 〜収穫祭〜",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-04-24T19:00:00+09:00",
-      "venueName": "らくごカフェ",
-      "venueAddress": "千代田区神田神保町2-3 神田古書センター5F",
-      "prefecture": "東京都",
-      "performers": [
-        "三遊亭 志う歌"
-      ],
-      "performerIds": [
-        "qkle5vz05z"
-      ],
-      "priceText": "前　売: 2000円 / 当　日: 2300円",
-      "description": "一般社団法人落語協会のホームページ。2026年04月24日：志う歌く祭 〜収穫祭〜ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/xccxjovfdhe",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/xccxjovfdhe",
-      "lastConfirmedAt": "2026-04-23T16:14:34+09:00",
-      "fetchedAt": "2026-04-23T16:14:34+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:24+00:00",
+      "fetchedAt": "2026-04-24T04:36:24+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-w83g8znbib",
@@ -259,8 +76,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/w83g8znbib",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/w83g8znbib",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:23+00:00",
+      "fetchedAt": "2026-04-24T04:36:23+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-rv3kypycf-y",
@@ -282,8 +99,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/rv3kypycf-y",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/rv3kypycf-y",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:25+00:00",
+      "fetchedAt": "2026-04-24T04:36:25+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-3-45g6adk6",
@@ -302,8 +119,31 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/3-45g6adk6",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/3-45g6adk6",
-      "lastConfirmedAt": "2026-04-23T16:14:33+09:00",
-      "fetchedAt": "2026-04-23T16:14:33+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:25+00:00",
+      "fetchedAt": "2026-04-24T04:36:25+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-xccxjovfdhe",
+      "title": "志う歌く祭 〜収穫祭〜",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-24T19:00:00+09:00",
+      "venueName": "らくごカフェ",
+      "venueAddress": "千代田区神田神保町2-3 神田古書センター5F",
+      "prefecture": "東京都",
+      "performers": [
+        "三遊亭 志う歌"
+      ],
+      "performerIds": [
+        "qkle5vz05z"
+      ],
+      "priceText": "前　売: 2000円 / 当　日: 2300円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月24日：志う歌く祭 〜収穫祭〜ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/xccxjovfdhe",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/xccxjovfdhe",
+      "lastConfirmedAt": "2026-04-24T04:36:26+00:00",
+      "fetchedAt": "2026-04-24T04:36:26+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-8s79-fvtms",
@@ -323,8 +163,31 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/8s79-fvtms",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/8s79-fvtms",
-      "lastConfirmedAt": "2026-04-23T16:14:34+09:00",
-      "fetchedAt": "2026-04-23T16:14:34+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:26+00:00",
+      "fetchedAt": "2026-04-24T04:36:26+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-7xrjnpxbh",
+      "title": "洋館寄席 旧本多亭 第3回 朝席",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T11:00:00+09:00",
+      "venueName": "旧本多邸",
+      "venueAddress": "逗子市山の根２丁目４−１７",
+      "prefecture": "東京都",
+      "performers": [
+        "桂 枝平"
+      ],
+      "performerIds": [
+        "i6harnds78m"
+      ],
+      "priceText": "前　売: 2,500円 / その他: 通し券（朝席、昼席、サンドイッチお茶付）：5,000円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：洋館寄席 旧本多亭 第3回 朝席ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/7xrjnpxbh",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/7xrjnpxbh",
+      "lastConfirmedAt": "2026-04-24T04:36:29+00:00",
+      "fetchedAt": "2026-04-24T04:36:29+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-kq871ik51",
@@ -343,8 +206,31 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/kq871ik51",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/kq871ik51",
-      "lastConfirmedAt": "2026-04-23T16:14:34+09:00",
-      "fetchedAt": "2026-04-23T16:14:34+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:28+00:00",
+      "fetchedAt": "2026-04-24T04:36:28+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-5f30jgd1k",
+      "title": "ricca ricca落語会",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T13:00:00+09:00",
+      "venueName": "上星川こまむ亭",
+      "venueAddress": "横浜市保土ケ谷区上星川3-2-8 ２F",
+      "prefecture": "神奈川県",
+      "performers": [
+        "三遊亭 律歌"
+      ],
+      "performerIds": [
+        "xw3c9c31mg"
+      ],
+      "priceText": "当　日: 2500円 / その他: 要別途１ｄ・１フードお願いします",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：ricca ricca落語会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/5f30jgd1k",
+      "ticketURL": "https://maps.app.goo.gl/jVFtGqtBPxwjWS896",
+      "lastConfirmedAt": "2026-04-24T04:36:31+00:00",
+      "fetchedAt": "2026-04-24T04:36:31+00:00"
     },
     {
       "id": "ntj-schedule-engei-2026-0403",
@@ -363,8 +249,53 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0403/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0403/",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:38+00:00",
+      "fetchedAt": "2026-04-24T04:36:38+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-iny7620itm",
+      "title": "林家つる子独演会in名古屋〜つる子のラクゴ☆スマイルscene3",
+      "category": "dokuenkai",
+      "categoryLabel": "独演会",
+      "startAt": "2026-04-25T13:30:00+09:00",
+      "venueName": "メニコンシアターAoi",
+      "venueAddress": "名古屋市中区葵３丁目２１−１９",
+      "prefecture": "東京都",
+      "performers": [
+        "林家 つる子",
+        "林家 あずみ"
+      ],
+      "performerIds": [
+        "wuyeyadafu",
+        "gd5h57baeq"
+      ],
+      "priceText": "前　売: 3500円 / 当　日: 4000円 / その他: チケットぴあ\\nhttps://t.pia.jp/pia/event/event.do?eventCd=2545964\\n\\n芸文プレイガイド：052-972-0430\\n栄プレチケ92：052-953-0777\\n",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：林家つる子独演会in名古屋〜つる子のラクゴ☆スマイルscene3ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/iny7620itm",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/iny7620itm",
+      "lastConfirmedAt": "2026-04-24T04:36:32+00:00",
+      "fetchedAt": "2026-04-24T04:36:32+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-1ra2g2pg0prg",
+      "title": "三遊亭わん丈独演会",
+      "category": "dokuenkai",
+      "categoryLabel": "独演会",
+      "startAt": "2026-04-25T13:30:00+09:00",
+      "venueName": "北部地域文化センター　1階 文化ホール",
+      "venueAddress": "大津市堅田二丁目1-11",
+      "prefecture": "東京都",
+      "performers": [
+        "三遊亭 わん丈"
+      ],
+      "priceText": "その他: 「料金」等：\\n　　　無料\\n\\n　　　定員\\n　　　500名（事前申込制）\\n\\n　　　申込方法\\n　　　期間：令和8年3月25日（水曜）から北部地域文化センター窓口または電話にて受付\\n　　　受付時間：9時00分～17時00分\\n　　　電話：077-574-0140\\n　　（注）休館日：毎週月曜（祝日の場合は、翌日以降の最初の平日）\\n　　（注）定員になり次第締め切ります。\\n",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：三遊亭わん丈独演会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/1ra2g2pg0prg",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/1ra2g2pg0prg",
+      "lastConfirmedAt": "2026-04-24T04:36:35+00:00",
+      "fetchedAt": "2026-04-24T04:36:35+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-y665m-nf7",
@@ -383,8 +314,121 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/y665m_nf7",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/y665m_nf7",
-      "lastConfirmedAt": "2026-04-23T16:14:34+09:00",
-      "fetchedAt": "2026-04-23T16:14:34+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:27+00:00",
+      "fetchedAt": "2026-04-24T04:36:27+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-38lmmf8tilx",
+      "title": "三遊亭青森 独演会",
+      "category": "dokuenkai",
+      "categoryLabel": "独演会",
+      "startAt": "2026-04-25T14:00:00+09:00",
+      "venueName": "博多らくごカフェ笑庵",
+      "venueAddress": "福岡市東区馬出１－４－８ G-Base Maidashi 1階",
+      "prefecture": "東京都",
+      "performers": [
+        "三遊亭 青森"
+      ],
+      "performerIds": [
+        "3mk6p3dfgs43"
+      ],
+      "priceText": "前　売: ¥2800 / 当　日: ¥3000",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：三遊亭青森 独演会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/38lmmf8tilx",
+      "ticketURL": "https://maps.app.goo.gl/jVFtGqtBPxwjWS896",
+      "lastConfirmedAt": "2026-04-24T04:36:29+00:00",
+      "fetchedAt": "2026-04-24T04:36:29+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-ve3snf1xfk4",
+      "title": "洋館寄席 旧本多亭 第3回 昼席",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T14:00:00+09:00",
+      "venueName": "旧本多邸",
+      "venueAddress": "逗子市山の根２丁目４−１７",
+      "prefecture": "東京都",
+      "performers": [
+        "桂 枝平"
+      ],
+      "performerIds": [
+        "i6harnds78m"
+      ],
+      "priceText": "前　売: 2,500円 / その他: 通し券（朝席、昼席、サンドイッチお茶付）：5,000円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：洋館寄席 旧本多亭 第3回 昼席ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/ve3snf1xfk4",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/ve3snf1xfk4",
+      "lastConfirmedAt": "2026-04-24T04:36:29+00:00",
+      "fetchedAt": "2026-04-24T04:36:29+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-cvn476077fau",
+      "title": "LEAF寄席",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T14:00:00+09:00",
+      "venueName": "クリークホール",
+      "venueAddress": "札幌市西区発寒6条9丁目11-28",
+      "prefecture": "東京都",
+      "performers": [
+        "柳家 花飛",
+        "三遊亭 歌実"
+      ],
+      "performerIds": [
+        "96ooh5941"
+      ],
+      "priceText": "前　売: 3000円 / 当　日: 3000円 / その他: 24日、25日通し券5500円\\n25日懇親会　会費2000円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：LEAF寄席ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/cvn476077fau",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/cvn476077fau",
+      "lastConfirmedAt": "2026-04-24T04:36:30+00:00",
+      "fetchedAt": "2026-04-24T04:36:30+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-cl7-k8ubd",
+      "title": "百栄てきぃーら！！vol.10",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T14:00:00+09:00",
+      "venueName": "スタジオフォー",
+      "venueAddress": "豊島区巣鴨４丁目４２−４",
+      "prefecture": "東京都",
+      "performers": [
+        "春風亭 百栄"
+      ],
+      "priceText": "前　売: 3,000円 / 当　日: 3,300円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：百栄てきぃーら！！vol.10ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/cl7_k8ubd",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/cl7_k8ubd",
+      "lastConfirmedAt": "2026-04-24T04:36:30+00:00",
+      "fetchedAt": "2026-04-24T04:36:30+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-y96m3awzah",
+      "title": "三遊亭青森 独演会",
+      "category": "dokuenkai",
+      "categoryLabel": "独演会",
+      "startAt": "2026-04-25T14:00:00+09:00",
+      "venueName": "博多らくごカフェ笑庵",
+      "venueAddress": "福岡市東区馬出１－４－８ G-Base Maidashi 1階",
+      "prefecture": "東京都",
+      "performers": [
+        "三遊亭 青森"
+      ],
+      "performerIds": [
+        "3mk6p3dfgs43"
+      ],
+      "priceText": "前　売: 2,800円 / 当　日: 3,000円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：三遊亭青森 独演会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/y96m3awzah",
+      "ticketURL": "https://maps.app.goo.gl/jVFtGqtBPxwjWS896",
+      "lastConfirmedAt": "2026-04-24T04:36:31+00:00",
+      "fetchedAt": "2026-04-24T04:36:31+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-vjqlkww-ce",
@@ -407,8 +451,102 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/vjqlkww_ce",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/vjqlkww_ce",
-      "lastConfirmedAt": "2026-04-23T16:14:34+09:00",
-      "fetchedAt": "2026-04-23T16:14:34+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:27+00:00",
+      "fetchedAt": "2026-04-24T04:36:27+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-x5poaulh4g",
+      "title": "柳橋落語会",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T15:00:00+09:00",
+      "venueName": "柳橋一二三亭",
+      "venueAddress": "台東区柳橋1-2-3 スタジオダラ内",
+      "prefecture": "東京都",
+      "performers": [
+        "春風亭 一猿"
+      ],
+      "priceText": "前　売: 2000",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：柳橋落語会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/x5poaulh4g",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/x5poaulh4g",
+      "lastConfirmedAt": "2026-04-24T04:36:34+00:00",
+      "fetchedAt": "2026-04-24T04:36:34+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-5g-y9mo1lcg",
+      "title": "三語楼とそばの会（第142回）",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T15:30:00+09:00",
+      "venueName": "薮伊豆総本店",
+      "venueAddress": "中央区日本橋3-15-7",
+      "prefecture": "東京都",
+      "performers": [
+        "柳家 三語楼"
+      ],
+      "performerIds": [
+        "4c09ztduht2"
+      ],
+      "priceText": "当　日: ４５００円（終演後のお食事付き・飲み物代別途）",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：三語楼とそばの会（第142回）ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/5g-y9mo1lcg",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/5g-y9mo1lcg",
+      "lastConfirmedAt": "2026-04-24T04:36:33+00:00",
+      "fetchedAt": "2026-04-24T04:36:33+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-o-ilcdtfgbq",
+      "title": "春風一刀 ひとり会",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T16:00:00+09:00",
+      "venueName": "パドックパス",
+      "venueAddress": "飯能市稲荷町12-10",
+      "prefecture": "東京都",
+      "performers": [
+        "春風 一刀"
+      ],
+      "performerIds": [
+        "iuviij3u4a"
+      ],
+      "priceText": "当　日: 2000円 / その他: 打ち上げ 2000円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：春風一刀 ひとり会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/o-ilcdtfgbq",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/o-ilcdtfgbq",
+      "lastConfirmedAt": "2026-04-24T04:36:33+00:00",
+      "fetchedAt": "2026-04-24T04:36:33+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-blz4f-p876",
+      "title": "卯月・初演の会　＝お楽しみ宿題三題噺＝",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T17:30:00+09:00",
+      "venueName": "落語協会二階（黒門亭）",
+      "venueAddress": "台東区上野ー９－５",
+      "area": "上野",
+      "prefecture": "東京都",
+      "performers": [
+        "鈴々舎 馬桜",
+        "入船亭 扇太",
+        "古今亭 雛菊"
+      ],
+      "performerIds": [
+        "ayqxhetek",
+        "sj1gloc585",
+        "wco9kk0xb0"
+      ],
+      "priceText": "前　売: １５００円 / 当　日: １５００円 / その他: 定員３０名　自由席\\n椅子席：８脚\\n＊椅子席希望の方は必ず予約して下さい。",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：卯月・初演の会　＝お楽しみ宿題三題噺＝ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/blz4f-p876",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/blz4f-p876",
+      "lastConfirmedAt": "2026-04-24T04:36:33+00:00",
+      "fetchedAt": "2026-04-24T04:36:33+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-invfgeg8o5dp",
@@ -432,8 +570,53 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/invfgeg8o5dp",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/invfgeg8o5dp",
-      "lastConfirmedAt": "2026-04-23T16:14:34+09:00",
-      "fetchedAt": "2026-04-23T16:14:34+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:28+00:00",
+      "fetchedAt": "2026-04-24T04:36:28+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-jo9xxfzst",
+      "title": "三凱亭落語会〜橘月の鶴が舞う〜",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T18:30:00+09:00",
+      "venueName": "徳丸三凱亭",
+      "venueAddress": "〒175-0083 板橋区徳丸3-3-11",
+      "prefecture": "東京都",
+      "performers": [
+        "橘家 文吾",
+        "三遊亭 ぐんま"
+      ],
+      "performerIds": [
+        "3jymb12mzxh",
+        "2s1wlvfkzh"
+      ],
+      "priceText": "前　売: 2000円 / 当　日: 2000円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：三凱亭落語会〜橘月の鶴が舞う〜ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/jo9xxfzst",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/jo9xxfzst",
+      "lastConfirmedAt": "2026-04-24T04:36:32+00:00",
+      "fetchedAt": "2026-04-24T04:36:32+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-kj7t-dd1gg",
+      "title": "わん丈クエスト～第12章",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-25T19:00:00+09:00",
+      "venueName": "大阪・百年長屋",
+      "venueAddress": "大阪市東成区中道３丁目２-２８",
+      "prefecture": "東京都",
+      "performers": [
+        "三遊亭 わん丈"
+      ],
+      "priceText": "その他: 【木戸銭】前売予約3800円（※ 整理番号順の自由席）\\n【予約】yoyaku@yoshidashokudou.com\\n　　　　（予約の際は、氏名・公演名・予約枚数・連絡先の4点を明記お願いいたします）\\n",
+      "description": "一般社団法人落語協会のホームページ。2026年04月25日：わん丈クエスト～第12章ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/kj7t-dd1gg",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/kj7t-dd1gg",
+      "lastConfirmedAt": "2026-04-24T04:36:34+00:00",
+      "fetchedAt": "2026-04-24T04:36:34+00:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-dlbvlezerr",
@@ -461,8 +644,38 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/dlbvlezerr",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/dlbvlezerr",
-      "lastConfirmedAt": "2026-04-23T16:14:34+09:00",
-      "fetchedAt": "2026-04-23T16:14:34+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:26+00:00",
+      "fetchedAt": "2026-04-24T04:36:26+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-5qdk2n-z9-ok",
+      "title": "早朝寄席",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-26T10:00:00+09:00",
+      "venueName": "鈴本演芸場",
+      "venueAddress": "台東区上野2-7-12",
+      "area": "上野",
+      "prefecture": "東京都",
+      "performers": [
+        "桃月庵 こはく",
+        "橘家 文吾",
+        "古今亭 雛菊",
+        "柳家 小次郎"
+      ],
+      "performerIds": [
+        "ca07hd7kgu",
+        "3jymb12mzxh",
+        "wco9kk0xb0",
+        "5vycnst34"
+      ],
+      "priceText": "前　売: なし / 当　日: 1,000円 / その他: 当日券のみ、自由席",
+      "description": "一般社団法人落語協会のホームページ。2026年04月26日：早朝寄席ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/5qdk2n_z9-ok",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/5qdk2n_z9-ok",
+      "lastConfirmedAt": "2026-04-24T04:36:36+00:00",
+      "fetchedAt": "2026-04-24T04:36:36+00:00"
     },
     {
       "id": "geikyo-jyoseki-17034",
@@ -481,28 +694,56 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17034",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17034",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
-      "id": "geikyo-jyoseki-17063",
-      "title": "お江戸上野広小路亭 五月上席 前半　5月1日〜5日",
-      "category": "yose",
-      "categoryLabel": "寄席",
-      "startAt": "2026-05-01T12:00:00+09:00",
-      "endAt": "2026-05-05T20:30:00+09:00",
-      "venueName": "お江戸上野広小路亭",
+      "id": "rakugo-kyokai-rakugokai-mgnt4v6kqx",
+      "title": "稽古風景",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-26T18:00:00+09:00",
+      "venueName": "落語協会 2階",
+      "venueAddress": "台東区上野1-9-5",
       "area": "上野",
       "prefecture": "東京都",
       "performers": [
-
+        "柳家 小八"
       ],
-      "description": "落語芸術協会の定席スケジュール掲載情報。",
-      "sourceName": "落語芸術協会",
-      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17063",
-      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17063",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "performerIds": [
+        "hvbii1gqiom2"
+      ],
+      "priceText": "当　日: 1,000円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月26日：稽古風景ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/mgnt4v6kqx",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/mgnt4v6kqx",
+      "lastConfirmedAt": "2026-04-24T04:36:36+00:00",
+      "fetchedAt": "2026-04-24T04:36:36+00:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-yyacdp-6vz",
+      "title": "4月　池袋特選会　第73回 桃色婦人会",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-04-26T18:30:00+09:00",
+      "venueName": "池袋演芸場",
+      "venueAddress": "豊島区西池袋1-23-1　エルクルーセB2",
+      "area": "池袋",
+      "prefecture": "東京都",
+      "performers": [
+        "三遊亭 歌る多"
+      ],
+      "performerIds": [
+        "4uwm1c0nodn"
+      ],
+      "priceText": "前　売: 2,300円 / 当　日: 2,500円",
+      "description": "一般社団法人落語協会のホームページ。2026年04月26日：4月　池袋特選会　第73回 桃色婦人会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/yyacdp_6vz",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/yyacdp_6vz",
+      "lastConfirmedAt": "2026-04-24T04:36:35+00:00",
+      "fetchedAt": "2026-04-24T04:36:35+00:00"
     },
     {
       "id": "geikyo-jyoseki-17054",
@@ -521,28 +762,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17054",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17054",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
-    },
-    {
-      "id": "geikyo-jyoseki-17070",
-      "title": "花座（仙台） 五月上席　5月1日〜3日",
-      "category": "yose",
-      "categoryLabel": "寄席",
-      "startAt": "2026-05-01T12:00:00+09:00",
-      "endAt": "2026-05-03T20:30:00+09:00",
-      "venueName": "花座（仙台）",
-      "area": "仙台",
-      "prefecture": "宮城県",
-      "performers": [
-
-      ],
-      "description": "落語芸術協会の定席スケジュール掲載情報。",
-      "sourceName": "落語芸術協会",
-      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17070",
-      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17070",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "geikyo-jyoseki-17058",
@@ -561,16 +782,16 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17058",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17058",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
-      "id": "geikyo-jyoseki-17084",
-      "title": "お江戸上野広小路亭 五月上席 後半　5月6日〜10日",
+      "id": "geikyo-jyoseki-17063",
+      "title": "お江戸上野広小路亭 五月上席 前半　5月1日〜5日",
       "category": "yose",
       "categoryLabel": "寄席",
-      "startAt": "2026-05-06T12:00:00+09:00",
-      "endAt": "2026-05-10T20:30:00+09:00",
+      "startAt": "2026-05-01T12:00:00+09:00",
+      "endAt": "2026-05-05T20:30:00+09:00",
       "venueName": "お江戸上野広小路亭",
       "area": "上野",
       "prefecture": "東京都",
@@ -579,10 +800,30 @@
       ],
       "description": "落語芸術協会の定席スケジュール掲載情報。",
       "sourceName": "落語芸術協会",
-      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17084",
-      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17084",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17063",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17063",
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
+    },
+    {
+      "id": "geikyo-jyoseki-17070",
+      "title": "花座（仙台） 五月上席　5月1日〜3日",
+      "category": "yose",
+      "categoryLabel": "寄席",
+      "startAt": "2026-05-01T12:00:00+09:00",
+      "endAt": "2026-05-03T20:30:00+09:00",
+      "venueName": "花座（仙台）",
+      "area": "仙台",
+      "prefecture": "宮城県",
+      "performers": [
+
+      ],
+      "description": "落語芸術協会の定席スケジュール掲載情報。",
+      "sourceName": "落語芸術協会",
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17070",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17070",
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "geikyo-jyoseki-17059",
@@ -601,8 +842,28 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17059",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17059",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
+    },
+    {
+      "id": "geikyo-jyoseki-17084",
+      "title": "お江戸上野広小路亭 五月上席 後半　5月6日〜10日",
+      "category": "yose",
+      "categoryLabel": "寄席",
+      "startAt": "2026-05-06T12:00:00+09:00",
+      "endAt": "2026-05-10T20:30:00+09:00",
+      "venueName": "お江戸上野広小路亭",
+      "area": "上野",
+      "prefecture": "東京都",
+      "performers": [
+
+      ],
+      "description": "落語芸術協会の定席スケジュール掲載情報。",
+      "sourceName": "落語芸術協会",
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17084",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17084",
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "ntj-schedule-engei-2026-0504",
@@ -621,8 +882,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0504/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0504/",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:38+00:00",
+      "fetchedAt": "2026-04-24T04:36:38+00:00"
     },
     {
       "id": "ntj-schedule-engei-2026-0503",
@@ -641,8 +902,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0503/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0503/",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:38+00:00",
+      "fetchedAt": "2026-04-24T04:36:38+00:00"
     },
     {
       "id": "geikyo-jyoseki-17068",
@@ -661,8 +922,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17068",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17068",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "geikyo-jyoseki-17127",
@@ -681,8 +942,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17127",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17127",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "geikyo-jyoseki-17073",
@@ -701,8 +962,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17073",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17073",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "ntj-schedule-engei-2026-0501",
@@ -721,8 +982,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0501/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0501/",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:38+00:00",
+      "fetchedAt": "2026-04-24T04:36:38+00:00"
     },
     {
       "id": "geikyo-jyoseki-17069",
@@ -741,28 +1002,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17069",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17069",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
-    },
-    {
-      "id": "geikyo-jyoseki-17074",
-      "title": "花座（仙台） 五月下席　5月21日〜23日",
-      "category": "yose",
-      "categoryLabel": "寄席",
-      "startAt": "2026-05-21T12:00:00+09:00",
-      "endAt": "2026-05-23T20:30:00+09:00",
-      "venueName": "花座（仙台）",
-      "area": "仙台",
-      "prefecture": "宮城県",
-      "performers": [
-
-      ],
-      "description": "落語芸術協会の定席スケジュール掲載情報。",
-      "sourceName": "落語芸術協会",
-      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17074",
-      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17074",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "geikyo-jyoseki-17116",
@@ -781,8 +1022,88 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17116",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17116",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
+    },
+    {
+      "id": "geikyo-jyoseki-17151",
+      "title": "お江戸上野広小路亭 五月下席（芸術家等人材育成公演）　5月21日〜21日",
+      "category": "yose",
+      "categoryLabel": "寄席",
+      "startAt": "2026-05-21T12:00:00+09:00",
+      "endAt": "2026-05-21T20:30:00+09:00",
+      "venueName": "お江戸上野広小路亭",
+      "area": "上野",
+      "prefecture": "東京都",
+      "performers": [
+
+      ],
+      "description": "落語芸術協会の定席スケジュール掲載情報。",
+      "sourceName": "落語芸術協会",
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17151",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17151",
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
+    },
+    {
+      "id": "geikyo-jyoseki-17074",
+      "title": "花座（仙台） 五月下席　5月21日〜23日",
+      "category": "yose",
+      "categoryLabel": "寄席",
+      "startAt": "2026-05-21T12:00:00+09:00",
+      "endAt": "2026-05-23T20:30:00+09:00",
+      "venueName": "花座（仙台）",
+      "area": "仙台",
+      "prefecture": "宮城県",
+      "performers": [
+
+      ],
+      "description": "落語芸術協会の定席スケジュール掲載情報。",
+      "sourceName": "落語芸術協会",
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17074",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17074",
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
+    },
+    {
+      "id": "geikyo-jyoseki-17152",
+      "title": "お江戸上野広小路亭 五月下席（芸術家等人材育成公演）　5月22日〜22日",
+      "category": "yose",
+      "categoryLabel": "寄席",
+      "startAt": "2026-05-22T12:00:00+09:00",
+      "endAt": "2026-05-22T20:30:00+09:00",
+      "venueName": "お江戸上野広小路亭",
+      "area": "上野",
+      "prefecture": "東京都",
+      "performers": [
+
+      ],
+      "description": "落語芸術協会の定席スケジュール掲載情報。",
+      "sourceName": "落語芸術協会",
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17152",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17152",
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
+    },
+    {
+      "id": "geikyo-jyoseki-17154",
+      "title": "お江戸上野広小路亭 五月下席（芸術家等人材育成公演）　5月23日〜23日",
+      "category": "yose",
+      "categoryLabel": "寄席",
+      "startAt": "2026-05-23T12:00:00+09:00",
+      "endAt": "2026-05-23T20:30:00+09:00",
+      "venueName": "お江戸上野広小路亭",
+      "area": "上野",
+      "prefecture": "東京都",
+      "performers": [
+
+      ],
+      "description": "落語芸術協会の定席スケジュール掲載情報。",
+      "sourceName": "落語芸術協会",
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17154",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17154",
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "geikyo-jyoseki-17128",
@@ -801,8 +1122,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17128",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17128",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "ntj-schedule-engei-2026-0502",
@@ -821,8 +1142,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0502/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0502/",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:38+00:00",
+      "fetchedAt": "2026-04-24T04:36:38+00:00"
     },
     {
       "id": "geikyo-jyoseki-17123",
@@ -841,8 +1162,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17123",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17123",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     },
     {
       "id": "geikyo-jyoseki-17124",
@@ -861,8 +1182,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17124",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17124",
-      "lastConfirmedAt": "2026-04-23T16:14:35+09:00",
-      "fetchedAt": "2026-04-23T16:14:35+09:00"
+      "lastConfirmedAt": "2026-04-24T04:36:37+00:00",
+      "fetchedAt": "2026-04-24T04:36:37+00:00"
     }
   ]
 }
