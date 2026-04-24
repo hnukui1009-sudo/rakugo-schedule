@@ -10,6 +10,7 @@ require "uri"
 ROOT = File.expand_path("..", __dir__)
 EVENTS_PATH = File.join(ROOT, "events.json")
 PERFORMERS_PATH = File.join(ROOT, "performers.json")
+INDEX_PATH = File.join(ROOT, "index.html")
 USER_AGENT = "CodexRakugoSchedule/1.0"
 TZ = "+09:00"
 TODAY = Date.today
@@ -111,6 +112,10 @@ def map_performer_ids(names, performer_map)
   Array(names).map { |name| performer_map[normalize_name(name)] }.compact.uniq
 end
 
+def target_months
+  [TODAY, TODAY.next_month].map { |date| date.strftime("%Y%m") }.uniq
+end
+
 def rakugo_kyokai_list_items(month)
   html = fetch("https://www.rakugo-kyokai.jp/rakugokai?m=#{month}")
   decoded = decode_next_stream(html)
@@ -175,10 +180,10 @@ def category_for_title(title)
 end
 
 def build_rakugo_kyokai_events(performer_map)
-  items = (rakugo_kyokai_list_items("202604") + rakugo_kyokai_list_items("202605"))
+  items = target_months.flat_map { |month| rakugo_kyokai_list_items(month) }
           .uniq { |item| item[:path] }
           .sort_by { |item| item[:date] }
-          .first(18)
+          .first(30)
 
   items.map do |item|
     url = "https://www.rakugo-kyokai.jp#{item[:path]}"
@@ -323,5 +328,14 @@ payload = {
 }
 
 File.write(EVENTS_PATH, JSON.pretty_generate(payload))
+
+if File.exist?(INDEX_PATH)
+  html = File.read(INDEX_PATH)
+  html = html.sub(
+    %r{<script id="embedded-events" type="application/json">.*?</script>}m,
+    "<script id=\"embedded-events\" type=\"application/json\">\n#{JSON.pretty_generate(payload)}\n    </script>"
+  )
+  File.write(INDEX_PATH, html)
+end
 
 puts "events.json updated: #{events.length} events"

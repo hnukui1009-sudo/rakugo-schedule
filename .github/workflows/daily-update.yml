@@ -1,0 +1,42 @@
+name: Daily Event Update
+
+on:
+  schedule:
+    - cron: "5 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Update performer directory
+        run: ruby scripts/build_performers_from_rakugo_kyokai.rb
+
+      - name: Update events
+        run: ruby scripts/update_events_from_official_sources.rb
+
+      - name: Sync embedded fallback data
+        run: ruby scripts/sync_embedded_data.rb
+
+      - name: Commit and push when files changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add events.json performers.json index.html
+          git commit -m "chore: daily event update"
+          git push
