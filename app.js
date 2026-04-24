@@ -416,7 +416,12 @@ function renderDetailPerformers(event) {
         .map((name) => {
           const performer = byName.get(normalizeName(name));
           return performer
-            ? renderPerformerTag(performer, { showPopupRank: true, showPopupLink: true })
+            ? renderPerformerTag(performer, {
+                showPopupRank: true,
+                showPopupLink: true,
+                compact: true,
+                popupCentered: true,
+              })
             : `<span class="performer-tag performer-tag--plain"><span class="performer-tag__name">${escapeHtml(name)}</span></span>`;
         })
         .join("")}
@@ -432,8 +437,8 @@ function renderPerformerTag(performer, options = {}) {
   const homepageLabel = performer.websiteURL ? "ホームページへ" : "プロフィールページへ";
 
   return `
-    <span class="performer-tag" tabindex="0">
-      <span class="performer-tag__role">${escapeHtml(rank)}</span>
+    <span class="performer-tag${options.compact ? " performer-tag--compact" : ""}${options.popupCentered ? " performer-tag--popup-centered" : ""}" tabindex="0">
+      ${options.compact ? "" : `<span class="performer-tag__role">${escapeHtml(rank)}</span>`}
       <span class="performer-tag__name">${escapeHtml(performer.displayName)}</span>
       <span class="performer-tag__popup" role="tooltip">
         <strong>${escapeHtml(performer.displayName)}</strong>

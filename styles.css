@@ -446,6 +446,7 @@ body::after {
 
 .performer-tags--detail {
   align-items: flex-start;
+  gap: 8px;
 }
 
 .performer-tag {
@@ -464,6 +465,11 @@ body::after {
 
 .performer-tag--plain {
   cursor: default;
+}
+
+.performer-tag--compact {
+  gap: 0;
+  padding: 8px 14px;
 }
 
 .performer-tag__role {
@@ -505,6 +511,11 @@ body::after {
   z-index: 4;
 }
 
+.performer-tag--popup-centered .performer-tag__popup {
+  left: 50%;
+  transform: translate(-50%, 4px);
+}
+
 .performer-tag__popup::after {
   content: "";
   position: absolute;
@@ -513,6 +524,11 @@ body::after {
   border-width: 8px 7px 0;
   border-style: solid;
   border-color: rgba(30, 24, 21, 0.96) transparent transparent;
+}
+
+.performer-tag--popup-centered .performer-tag__popup::after {
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .performer-tag__popup strong {
@@ -536,8 +552,19 @@ body::after {
 .performer-tag:focus-visible .performer-tag__popup,
 .performer-tag:focus-within .performer-tag__popup {
   opacity: 1;
-  transform: translateY(0);
   pointer-events: auto;
+}
+
+.performer-tag:hover .performer-tag__popup,
+.performer-tag:focus-visible .performer-tag__popup,
+.performer-tag:focus-within .performer-tag__popup {
+  transform: translateY(0);
+}
+
+.performer-tag--popup-centered:hover .performer-tag__popup,
+.performer-tag--popup-centered:focus-visible .performer-tag__popup,
+.performer-tag--popup-centered:focus-within .performer-tag__popup {
+  transform: translate(-50%, 0);
 }
 
 .link-button {
