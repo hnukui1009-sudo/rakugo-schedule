@@ -636,6 +636,57 @@ body::after {
   line-height: 1.8;
 }
 
+.site-footer__note {
+  margin: 18px 0 0;
+}
+
+.footer-spotlight {
+  padding: 24px;
+  border: 1px solid rgba(61, 44, 29, 0.12);
+  border-radius: 24px;
+  background:
+    linear-gradient(135deg, rgba(182, 35, 36, 0.08), rgba(216, 170, 56, 0.18)),
+    linear-gradient(180deg, rgba(255, 251, 241, 0.9), rgba(250, 242, 223, 0.96));
+  box-shadow: var(--shadow);
+}
+
+.footer-spotlight h2,
+.footer-spotlight h3 {
+  margin: 0;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+}
+
+.footer-spotlight__content {
+  display: grid;
+  gap: 10px;
+}
+
+.footer-spotlight__date,
+.footer-spotlight__meta,
+.footer-spotlight__performers,
+.footer-spotlight__desc {
+  margin: 0;
+}
+
+.footer-spotlight__date {
+  color: var(--red-dark);
+  font-size: 0.86rem;
+  font-weight: 800;
+}
+
+.footer-spotlight__meta {
+  color: var(--muted);
+}
+
+.footer-spotlight__performers {
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.footer-spotlight__desc {
+  line-height: 1.8;
+}
+
 @media (max-width: 1080px) {
   .layout {
     grid-template-columns: 1fr;

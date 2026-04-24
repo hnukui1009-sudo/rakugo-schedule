@@ -25,6 +25,7 @@ const els = {
   resultSummary: document.getElementById("result-summary"),
   statCount: document.getElementById("stat-count"),
   lastUpdated: document.getElementById("last-updated"),
+  footerSpotlightContent: document.getElementById("footer-spotlight-content"),
 };
 
 document.addEventListener("DOMContentLoaded", init);
@@ -57,6 +58,7 @@ async function init() {
 
   renderMeta();
   applyFilters();
+  renderFooterSpotlight();
 }
 
 async function loadEventPayload() {
@@ -245,12 +247,7 @@ function renderList() {
               : ""
           }
           <div class="event-card__actions">
-            <a class="link-button link-button--primary" href="${escapeAttribute(event.sourceURL)}">公式ページ</a>
-            ${
-              event.ticketURL
-                ? `<a class="link-button link-button--secondary" href="${escapeAttribute(event.ticketURL)}">チケット情報</a>`
-                : ""
-            }
+            <a class="link-button link-button--primary" href="${escapeAttribute(event.sourceURL)}" target="_blank" rel="noreferrer">公式ページ</a>
           </div>
         </article>
       `;
@@ -328,12 +325,7 @@ function renderDetail() {
       ${detailRow("出演者DB更新", state.performerDirectoryUpdatedAt ? formatDateTime(state.performerDirectoryUpdatedAt) : "未読込")}
     </section>
     <div class="detail__actions">
-      <a class="link-button link-button--primary" href="${escapeAttribute(event.sourceURL)}">公式ページへ</a>
-      ${
-        event.ticketURL
-          ? `<a class="link-button link-button--secondary" href="${escapeAttribute(event.ticketURL)}">チケット情報へ</a>`
-        : ""
-      }
+      <a class="link-button link-button--primary" href="${escapeAttribute(event.sourceURL)}" target="_blank" rel="noreferrer">公式ページへ</a>
     </div>
     ${performerCards ? `<section class="performer-grid">${performerCards}</section>` : ""}
   `;
@@ -356,8 +348,7 @@ function toggleFavorite(id) {
   }
 
   saveFavorites(state.favorites);
-  renderList();
-  renderDetail();
+  applyFilters();
 }
 
 function populateSelectOptions(id, values) {
@@ -542,14 +533,43 @@ function normalizeName(value) {
 
 function loadFavorites() {
   try {
-    return JSON.parse(localStorage.getItem(FAVORITES_KEY)) || [];
+    const raw = localStorage.getItem(FAVORITES_KEY);
+    const favorites = raw ? JSON.parse(raw) : [];
+    return Array.isArray(favorites) ? favorites : [];
   } catch (error) {
     return [];
   }
 }
 
 function saveFavorites(favorites) {
-  localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites));
+  try {
+    localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites));
+  } catch (error) {
+    setStatus("お気に入り保存に失敗しました。ブラウザ設定をご確認ください。");
+  }
+}
+
+function renderFooterSpotlight() {
+  const candidates = state.events.filter((event) => event.title && event.sourceURL);
+  if (!candidates.length) {
+    els.footerSpotlightContent.innerHTML = "<p>見どころデータを表示できませんでした。</p>";
+    return;
+  }
+
+  const event = candidates[Math.floor(Math.random() * candidates.length)];
+  const headliner = getFeaturedPerformers(event)[0];
+  const performerText = headliner
+    ? headliner.displayName
+    : Array(event.performers || []).slice(0, 3).join(" / ") || "出演者情報を確認中";
+
+  els.footerSpotlightContent.innerHTML = `
+    <p class="footer-spotlight__date">${escapeHtml(formatDate(event.startAt))}</p>
+    <h3>${escapeHtml(event.title)}</h3>
+    <p class="footer-spotlight__meta">${escapeHtml(event.venueName || "会場未設定")} / ${escapeHtml(event.categoryLabel || "公演")}</p>
+    <p class="footer-spotlight__performers">見どころ: ${escapeHtml(performerText)}</p>
+    <p class="footer-spotlight__desc">${escapeHtml(event.description || "公開データベースからピックアップした注目公演です。")}</p>
+    <a class="link-button link-button--primary" href="${escapeAttribute(event.sourceURL)}" target="_blank" rel="noreferrer">公式ページを見る</a>
+  `;
 }
 
 function setStatus(message) {
