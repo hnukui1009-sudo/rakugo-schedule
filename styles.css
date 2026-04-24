@@ -120,8 +120,15 @@ body::after {
 
 .hero h1 {
   font-size: clamp(2.6rem, 8vw, 5.4rem);
-  line-height: 0.95;
-  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+  line-height: 0.92;
+  letter-spacing: 0.12em;
+  font-weight: 900;
+  font-family: "Hiragino Mincho ProN W6", "Hiragino Mincho ProN",
+    "Yu Mincho Demibold", "Yu Mincho", "Noto Serif JP", serif;
+  color: #fff8e8;
+  text-shadow: 0 2px 0 rgba(126, 24, 23, 0.92), 0 4px 0 rgba(126, 24, 23, 0.72),
+    0 12px 24px rgba(0, 0, 0, 0.24);
+  -webkit-text-stroke: 1.2px rgba(123, 28, 28, 0.45);
 }
 
 .hero__lead {

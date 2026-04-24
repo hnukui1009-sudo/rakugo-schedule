@@ -393,7 +393,6 @@ function getFeaturedPerformers(event) {
 function renderPerformerTag(performer) {
   const bio = performer.shortBio || "落語協会プロフィールを参照できます。";
   const age = formatPerformerAge(performer.birthDate);
-  const career = formatCareerYears(performer.careerHighlights);
   const rank = Array(performer.ranks || []).join(" / ") || performer.category || "出演者";
 
   return `
@@ -404,7 +403,6 @@ function renderPerformerTag(performer) {
         <strong>${escapeHtml(performer.displayName)}</strong>
         <span>${escapeHtml(bio)}</span>
         <span>年齢: ${escapeHtml(age)}</span>
-        <span>芸歴: ${escapeHtml(career)}</span>
       </span>
     </span>
   `;
