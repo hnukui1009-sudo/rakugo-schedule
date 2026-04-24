@@ -318,7 +318,7 @@ function renderDetail() {
     <section class="detail__meta">
       ${detailRow("日時", `${formatDate(event.startAt)} ${formatTimeRange(event.startAt, event.endAt)}`)}
       ${detailRow("会場", `${event.venueName}${event.venueAddress ? ` / ${event.venueAddress}` : ""}`)}
-      ${detailRow("出演者", (event.performers || []).join(" / ") || "未設定")}
+      ${detailRowHtml("出演者", renderDetailPerformers(event))}
       ${detailRow("料金", event.priceText || "未設定")}
       ${detailRow("取得元", event.sourceName || "未設定")}
       ${detailRow("最終確認", formatDateTime(event.lastConfirmedAt || event.fetchedAt))}
@@ -335,7 +335,16 @@ function detailRow(label, value) {
   return `
     <div class="detail__row">
       <span class="detail__label">${escapeHtml(label)}</span>
-      <strong>${escapeHtml(value)}</strong>
+      <strong class="detail__value">${escapeHtml(value)}</strong>
+    </div>
+  `;
+}
+
+function detailRowHtml(label, html) {
+  return `
+    <div class="detail__row">
+      <span class="detail__label">${escapeHtml(label)}</span>
+      <div class="detail__value">${html}</div>
     </div>
   `;
 }
@@ -390,10 +399,37 @@ function getFeaturedPerformers(event) {
     .filter(Boolean);
 }
 
-function renderPerformerTag(performer) {
+function renderDetailPerformers(event) {
+  const knownPerformers = getEventPerformers(event);
+  const byName = new Map(
+    knownPerformers.map((performer) => [normalizeName(performer.displayName), performer])
+  );
+  const performerNames = Array(event.performers || []);
+
+  if (!performerNames.length) {
+    return "<strong>未設定</strong>";
+  }
+
+  return `
+    <div class="performer-tags performer-tags--detail">
+      ${performerNames
+        .map((name) => {
+          const performer = byName.get(normalizeName(name));
+          return performer
+            ? renderPerformerTag(performer, { showPopupRank: true, showPopupLink: true })
+            : `<span class="performer-tag performer-tag--plain"><span class="performer-tag__name">${escapeHtml(name)}</span></span>`;
+        })
+        .join("")}
+    </div>
+  `;
+}
+
+function renderPerformerTag(performer, options = {}) {
   const bio = performer.shortBio || "落語協会プロフィールを参照できます。";
   const age = formatPerformerAge(performer.birthDate);
   const rank = Array(performer.ranks || []).join(" / ") || performer.category || "出演者";
+  const homepageUrl = performer.websiteURL || performer.profileURL || "";
+  const homepageLabel = performer.websiteURL ? "ホームページへ" : "プロフィールページへ";
 
   return `
     <span class="performer-tag" tabindex="0">
@@ -403,6 +439,12 @@ function renderPerformerTag(performer) {
         <strong>${escapeHtml(performer.displayName)}</strong>
         <span>${escapeHtml(bio)}</span>
         <span>年齢: ${escapeHtml(age)}</span>
+        ${options.showPopupRank ? `<span>階級: ${escapeHtml(rank)}</span>` : ""}
+        ${
+          options.showPopupLink && homepageUrl
+            ? `<a class="performer-tag__link" href="${escapeAttribute(homepageUrl)}" target="_blank" rel="noreferrer">${escapeHtml(homepageLabel)}</a>`
+            : ""
+        }
       </span>
     </span>
   `;

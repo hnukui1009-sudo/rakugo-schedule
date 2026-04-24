@@ -444,6 +444,10 @@ body::after {
   gap: 10px;
 }
 
+.performer-tags--detail {
+  align-items: flex-start;
+}
+
 .performer-tag {
   position: relative;
   display: inline-flex;
@@ -456,6 +460,10 @@ body::after {
   cursor: help;
   outline: none;
   border: 1px solid rgba(182, 35, 36, 0.12);
+}
+
+.performer-tag--plain {
+  cursor: default;
 }
 
 .performer-tag__role {
@@ -511,15 +519,25 @@ body::after {
   font-size: 0.96rem;
 }
 
-.performer-tag__popup span {
+.performer-tag__popup span,
+.performer-tag__popup a {
   font-size: 0.84rem;
   line-height: 1.65;
 }
 
+.performer-tag__link {
+  color: #ffe39f;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
+
 .performer-tag:hover .performer-tag__popup,
-.performer-tag:focus-visible .performer-tag__popup {
+.performer-tag:focus-visible .performer-tag__popup,
+.performer-tag:focus-within .performer-tag__popup {
   opacity: 1;
   transform: translateY(0);
+  pointer-events: auto;
 }
 
 .link-button {
@@ -593,6 +611,10 @@ body::after {
   font-size: 0.78rem;
   font-weight: 800;
   letter-spacing: 0.1em;
+}
+
+.detail__value {
+  min-width: 0;
 }
 
 .detail__actions {
