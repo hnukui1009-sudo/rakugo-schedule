@@ -206,11 +206,15 @@ function renderList() {
       const isActive = state.selectedId === event.id;
       const featuredPerformers = getFeaturedPerformers(event);
       const headliner = featuredPerformers[0];
+      const isNew = isEventNew(event);
       return `
         <article class="event-card ${isActive ? "is-active" : ""}" data-id="${escapeHtml(event.id)}">
           <div class="event-card__top">
             <div>
-              <p class="event-card__category">${escapeHtml(event.categoryLabel)}</p>
+              <p class="event-card__category">
+                <span>${escapeHtml(event.categoryLabel)}</span>
+                ${isNew ? '<span class="event-card__new-badge">NEW</span>' : ""}
+              </p>
               <h3 class="event-card__title">${escapeHtml(event.title)}</h3>
               ${
                 headliner
@@ -477,6 +481,22 @@ function uniqueValues(events, key) {
 
 function sortEvents(events) {
   return [...events].sort((a, b) => new Date(a.startAt) - new Date(b.startAt));
+}
+
+function isEventNew(event) {
+  if (!event.firstSeenAt) {
+    return false;
+  }
+
+  const firstSeenAt = new Date(event.firstSeenAt);
+  if (Number.isNaN(firstSeenAt.getTime())) {
+    return false;
+  }
+
+  const today = startOfDay(new Date());
+  const firstSeenDay = startOfDay(firstSeenAt);
+  const diffDays = Math.floor((today - firstSeenDay) / 86400000);
+  return diffDays >= 0 && diffDays <= 2;
 }
 
 function startOfDay(date) {

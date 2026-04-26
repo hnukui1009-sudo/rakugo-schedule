@@ -1,104 +1,79 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-04-25T23:11:47+00:00",
+  "fetchedAt": "2026-04-25T08:01:54+09:00",
   "count": 304,
   "performers": [
     {
-      "id": "11knaxeb0",
-      "displayName": "鈴々舎 馬風",
-      "normalizedName": "鈴々舎馬風",
-      "geimei": "馬風",
-      "teigo": "鈴々舎",
-      "displayNameKana": "れいれいしゃ ばふう",
-      "realName": "寺田 輝雄",
-      "realNameKana": "てらだ てるを",
+      "id": "z3ixnwm0h2g1",
+      "displayName": "桂 三木助",
+      "normalizedName": "桂三木助",
+      "geimei": "三木助",
+      "teigo": "桂",
+      "displayNameKana": "かつら みきすけ",
+      "realName": "小林 盛夫",
+      "realNameKana": "こばやし もりお",
       "ranks": [
-        "真打"
+        "物故者"
       ],
-      "category": "真打",
-      "categoryPath": "/members",
-      "status": "active",
-      "birthDate": "1939-12-18T15:00:00.000Z",
+      "category": "物故者",
+      "categoryPath": "/members/b",
+      "status": "deceased",
+      "birthDate": "1957-03-28T15:00:00.000Z",
       "birthDateFormat": [
         "全て表示"
       ],
-      "birthPlace": "千葉県野田市",
-      "debayashi": "本調子のっと",
-      "crest": "鈴、裏梅",
-      "keyword": "鈴々舎馬風",
-      "websiteURL": "http://bafuitimon.com/",
-      "profileURL": "https://www.rakugo-kyokai.jp/members/11knaxeb0",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/e4a91ffaef2547a2804f8e0dd79bbfd8/1%E3%80%80%E9%88%B4%E3%80%85%E8%88%8E%E9%A6%AC%E9%A2%A8.jpg",
-      "sourceUpdatedAt": "2024-02-23T03:32:18.627Z",
-      "sourcePublishedAt": "2023-09-05T06:33:09.984Z",
-      "shortBio": "「笑点」「やじうま寄席」「街かどテレビ」やプロレスの呼び出しで人気落語家となる。\n後輩や弟子の面倒見の良さは随一。高座では、自作「会長への道」などで、楽屋にいる先輩、同僚を主役に当意即妙なアドリブで寄席を沸かしている。明るく豪快な高座には定評がある。その他演歌、百面相、物まね、形態模写、司会など余芸も多彩である。\n平成八年には芸歴四十周年を期して落語と同名の「会長への道」を執筆、前座の修業時代から現在に至るまでの回想録。笑いあり涙ありの随筆。小学館より好評発売中。",
-      "publications": "CD　：「猫の災難」「紙入れ」\nDVD：「禁酒番屋」「男の井戸端会議」\n著書：「会長への道」",
+      "birthPlace": "東京都北区田端",
+      "debayashi": "つくま",
+      "crest": "三木柏",
+      "keyword": "桂三木助",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/z3ixnwm0h2g1",
+      "sourceUpdatedAt": "2024-02-23T03:53:42.294Z",
+      "sourcePublishedAt": "2023-09-06T09:28:45.607Z",
       "careerHighlights": [
         {
-          "date": "1956-11-30T15:00:00.000Z",
+          "date": "1977-03-31T15:00:00.000Z",
           "dateFormat": [
             "年月のみ表示"
           ],
-          "content": "五代目柳家小さんに入門　前座名「小光」"
+          "content": "立教大学在学中に五代目柳家小さんに入門\n前座名「小太郎」"
         },
         {
-          "date": "1960-02-29T15:00:00.000Z",
+          "date": "1981-04-30T15:00:00.000Z",
           "dateFormat": [
             "年月のみ表示"
           ],
-          "content": "二ツ目昇進 「かゑる」に改名"
+          "content": "二ツ目昇進　「小きん」と改名"
         },
         {
-          "date": "1972-12-31T15:00:00.000Z",
+          "date": "1985-08-31T15:00:00.000Z",
           "dateFormat": [
-            "年のみ表示"
+            "年月のみ表示"
           ],
-          "content": "真打昇進"
-        },
-        {
-          "date": "1975-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "十代目「鈴々舎馬風」を襲名"
-        },
-        {
-          "date": "1978-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "社団法人落語協会理事に就任\n後進の育成に力を注ぐ"
-        },
-        {
-          "date": "2000-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "社団法人落語協会副会長に就任"
-        },
-        {
-          "date": "2005-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "社団法人落語協会会長に就任"
-        },
-        {
-          "date": "2009-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "会長職を退き最高顧問に就任"
+          "content": "真打昇進　四代目「桂三木助」を襲名"
         }
       ],
       "prizeHighlights": [
         {
-          "date": "2023-12-11T15:00:00.000Z",
+          "date": "1983-12-31T15:00:00.000Z",
           "dateFormat": [
-            "年月のみ表示"
+            "年のみ表示"
           ],
-          "content": "令和5年度文化庁長官表彰"
+          "content": "NHK新人落語コンクール優秀賞"
+        },
+        {
+          "date": "1985-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "日本放送演芸大賞ホープ賞"
+        },
+        {
+          "date": "1986-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "日本放送演芸大賞ホープ賞"
         }
       ]
     },
@@ -20869,75 +20844,100 @@
       ]
     },
     {
-      "id": "z3ixnwm0h2g1",
-      "displayName": "桂 三木助",
-      "normalizedName": "桂三木助",
-      "geimei": "三木助",
-      "teigo": "桂",
-      "displayNameKana": "かつら みきすけ",
-      "realName": "小林 盛夫",
-      "realNameKana": "こばやし もりお",
+      "id": "11knaxeb0",
+      "displayName": "鈴々舎 馬風",
+      "normalizedName": "鈴々舎馬風",
+      "geimei": "馬風",
+      "teigo": "鈴々舎",
+      "displayNameKana": "れいれいしゃ ばふう",
+      "realName": "寺田 輝雄",
+      "realNameKana": "てらだ てるを",
       "ranks": [
-        "物故者"
+        "真打"
       ],
-      "category": "物故者",
-      "categoryPath": "/members/b",
-      "status": "deceased",
-      "birthDate": "1957-03-28T15:00:00.000Z",
+      "category": "真打",
+      "categoryPath": "/members",
+      "status": "active",
+      "birthDate": "1939-12-18T15:00:00.000Z",
       "birthDateFormat": [
         "全て表示"
       ],
-      "birthPlace": "東京都北区田端",
-      "debayashi": "つくま",
-      "crest": "三木柏",
-      "keyword": "桂三木助",
-      "profileURL": "https://www.rakugo-kyokai.jp/members/z3ixnwm0h2g1",
-      "sourceUpdatedAt": "2024-02-23T03:53:42.294Z",
-      "sourcePublishedAt": "2023-09-06T09:28:45.607Z",
+      "birthPlace": "千葉県野田市",
+      "debayashi": "本調子のっと",
+      "crest": "鈴、裏梅",
+      "keyword": "鈴々舎馬風",
+      "websiteURL": "http://bafuitimon.com/",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/11knaxeb0",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/e4a91ffaef2547a2804f8e0dd79bbfd8/1%E3%80%80%E9%88%B4%E3%80%85%E8%88%8E%E9%A6%AC%E9%A2%A8.jpg",
+      "sourceUpdatedAt": "2024-02-23T03:32:18.627Z",
+      "sourcePublishedAt": "2023-09-05T06:33:09.984Z",
+      "shortBio": "「笑点」「やじうま寄席」「街かどテレビ」やプロレスの呼び出しで人気落語家となる。\n後輩や弟子の面倒見の良さは随一。高座では、自作「会長への道」などで、楽屋にいる先輩、同僚を主役に当意即妙なアドリブで寄席を沸かしている。明るく豪快な高座には定評がある。その他演歌、百面相、物まね、形態模写、司会など余芸も多彩である。\n平成八年には芸歴四十周年を期して落語と同名の「会長への道」を執筆、前座の修業時代から現在に至るまでの回想録。笑いあり涙ありの随筆。小学館より好評発売中。",
+      "publications": "CD　：「猫の災難」「紙入れ」\nDVD：「禁酒番屋」「男の井戸端会議」\n著書：「会長への道」",
       "careerHighlights": [
         {
-          "date": "1977-03-31T15:00:00.000Z",
+          "date": "1956-11-30T15:00:00.000Z",
           "dateFormat": [
             "年月のみ表示"
           ],
-          "content": "立教大学在学中に五代目柳家小さんに入門\n前座名「小太郎」"
+          "content": "五代目柳家小さんに入門　前座名「小光」"
         },
         {
-          "date": "1981-04-30T15:00:00.000Z",
+          "date": "1960-02-29T15:00:00.000Z",
           "dateFormat": [
             "年月のみ表示"
           ],
-          "content": "二ツ目昇進　「小きん」と改名"
+          "content": "二ツ目昇進 「かゑる」に改名"
         },
         {
-          "date": "1985-08-31T15:00:00.000Z",
+          "date": "1972-12-31T15:00:00.000Z",
           "dateFormat": [
-            "年月のみ表示"
+            "年のみ表示"
           ],
-          "content": "真打昇進　四代目「桂三木助」を襲名"
+          "content": "真打昇進"
+        },
+        {
+          "date": "1975-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "十代目「鈴々舎馬風」を襲名"
+        },
+        {
+          "date": "1978-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "社団法人落語協会理事に就任\n後進の育成に力を注ぐ"
+        },
+        {
+          "date": "2000-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "社団法人落語協会副会長に就任"
+        },
+        {
+          "date": "2005-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "社団法人落語協会会長に就任"
+        },
+        {
+          "date": "2009-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "会長職を退き最高顧問に就任"
         }
       ],
       "prizeHighlights": [
         {
-          "date": "1983-12-31T15:00:00.000Z",
+          "date": "2023-12-11T15:00:00.000Z",
           "dateFormat": [
-            "年のみ表示"
+            "年月のみ表示"
           ],
-          "content": "NHK新人落語コンクール優秀賞"
-        },
-        {
-          "date": "1985-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "日本放送演芸大賞ホープ賞"
-        },
-        {
-          "date": "1986-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "日本放送演芸大賞ホープ賞"
+          "content": "令和5年度文化庁長官表彰"
         }
       ]
     }

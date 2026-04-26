@@ -369,9 +369,25 @@ body::after {
 
 .event-card__category {
   margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
   font-size: 0.72rem;
   color: var(--green);
   font-weight: 800;
+}
+
+.event-card__new-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #c62828, #f57c00);
+  color: #fff8ef;
+  font-size: 0.64rem;
+  letter-spacing: 0.12em;
+  box-shadow: 0 6px 14px rgba(150, 36, 26, 0.18);
 }
 
 .event-card__favorite {

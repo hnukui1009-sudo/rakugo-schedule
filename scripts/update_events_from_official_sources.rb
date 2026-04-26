@@ -13,7 +13,8 @@ PERFORMERS_PATH = File.join(ROOT, "performers.json")
 INDEX_PATH = File.join(ROOT, "index.html")
 USER_AGENT = "CodexRakugoSchedule/1.0"
 TZ = "+09:00"
-TODAY = Date.today
+NOW = Time.now.getlocal(TZ)
+TODAY = NOW.to_date
 
 def fetch(url)
   URI.open(url, "User-Agent" => USER_AGENT, read_timeout: 30, open_timeout: 30, &:read)
@@ -97,6 +98,12 @@ def iso_datetime(date, time_text = nil)
   format("%<date>sT%<hour>02d:%<min>02d:00%<tz>s", date: date.strftime("%Y-%m-%d"), hour: hour, min: min, tz: TZ)
 end
 
+def event_date(event)
+  Date.parse(event.fetch("startAt"))
+rescue StandardError
+  nil
+end
+
 def safe_id(text)
   text.downcase.gsub(/[^a-z0-9]+/, "-").gsub(/\A-|-+\z/, "")
 end
@@ -106,6 +113,17 @@ def load_performer_map
   payload.fetch("performers", []).each_with_object({}) do |performer, hash|
     hash[performer["normalizedName"]] = performer["id"]
   end
+end
+
+def load_previous_event_map
+  return {} unless File.exist?(EVENTS_PATH)
+
+  payload = JSON.parse(File.read(EVENTS_PATH))
+  Array(payload["events"]).each_with_object({}) do |event, hash|
+    hash[event["id"]] = event
+  end
+rescue StandardError
+  {}
 end
 
 def map_performer_ids(names, performer_map)
@@ -222,8 +240,8 @@ def build_rakugo_kyokai_events(performer_map)
       "sourceName" => "落語協会",
       "sourceURL" => url,
       "ticketURL" => extract_ticket_url(decoded) || url,
-      "lastConfirmedAt" => Time.now.iso8601,
-      "fetchedAt" => Time.now.iso8601
+      "lastConfirmedAt" => NOW.iso8601,
+      "fetchedAt" => NOW.iso8601
     }.delete_if { |_, value| value.nil? || (value.respond_to?(:empty?) && value.empty?) }
   end
 end
@@ -269,8 +287,8 @@ def build_geikyo_jyoseki_events
         "sourceName" => "落語芸術協会",
         "sourceURL" => href.start_with?("http") ? href : "https://www.geikyo.com#{href}",
         "ticketURL" => href.start_with?("http") ? href : "https://www.geikyo.com#{href}",
-        "lastConfirmedAt" => Time.now.iso8601,
-        "fetchedAt" => Time.now.iso8601
+        "lastConfirmedAt" => NOW.iso8601,
+        "fetchedAt" => NOW.iso8601
       }
     end
   end.compact
@@ -310,19 +328,28 @@ def build_ntj_events
       "sourceName" => "国立演芸場",
       "sourceURL" => href.start_with?("http") ? href : "https://www.ntj.jac.go.jp/#{href.sub(%r{\A/}, '')}",
       "ticketURL" => href.start_with?("http") ? href : "https://www.ntj.jac.go.jp/#{href.sub(%r{\A/}, '')}",
-      "lastConfirmedAt" => Time.now.iso8601,
-      "fetchedAt" => Time.now.iso8601
+      "lastConfirmedAt" => NOW.iso8601,
+      "fetchedAt" => NOW.iso8601
     }
   end.compact
 end
 
 performer_map = load_performer_map
+previous_event_map = load_previous_event_map
 events = (build_rakugo_kyokai_events(performer_map) + build_geikyo_jyoseki_events + build_ntj_events)
          .uniq { |event| event["id"] }
+         .select { |event| event_date(event) && event_date(event) >= TODAY }
+         .map do |event|
+           previous = previous_event_map[event["id"]] || {}
+           first_seen_at = previous["firstSeenAt"] || NOW.iso8601
+           event.merge(
+             "firstSeenAt" => first_seen_at
+           )
+         end
          .sort_by { |event| event["startAt"] }
 
 payload = {
-  "updatedAt" => Time.now.iso8601,
+  "updatedAt" => NOW.iso8601,
   "performerDirectoryUpdatedAt" => JSON.parse(File.read(PERFORMERS_PATH))["fetchedAt"],
   "events" => events
 }
