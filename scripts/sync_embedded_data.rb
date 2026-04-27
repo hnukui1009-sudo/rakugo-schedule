@@ -5,10 +5,12 @@ ROOT = File.expand_path("..", __dir__)
 INDEX_PATH = File.join(ROOT, "index.html")
 EVENTS_PATH = File.join(ROOT, "events.json")
 PERFORMERS_PATH = File.join(ROOT, "performers.json")
+VIDEOS_PATH = File.join(ROOT, "videos.json")
 
 html = File.read(INDEX_PATH)
 events = File.read(EVENTS_PATH)
 performers = File.read(PERFORMERS_PATH)
+videos = File.exist?(VIDEOS_PATH) ? File.read(VIDEOS_PATH) : %({"videos":[]})
 
 html = html.sub(
   %r{<script id="embedded-events" type="application/json">.*?</script>}m,
@@ -24,6 +26,18 @@ else
   html = html.sub(
     '    <script src="./app.js"></script>',
     "    <script id=\"embedded-performers\" type=\"application/json\">\n#{performers}\n    </script>\n    <script src=\"./app.js\"></script>"
+  )
+end
+
+if html.include?('id="embedded-videos"')
+  html = html.sub(
+    %r{<script id="embedded-videos" type="application/json">.*?</script>}m,
+    "<script id=\"embedded-videos\" type=\"application/json\">\n#{videos}\n    </script>"
+  )
+else
+  html = html.sub(
+    '    <script src="./app.js"></script>',
+    "    <script id=\"embedded-videos\" type=\"application/json\">\n#{videos}\n    </script>\n    <script src=\"./app.js\"></script>"
   )
 end
 

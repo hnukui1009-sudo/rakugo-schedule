@@ -9,6 +9,7 @@ const state = {
   performersById: {},
   performersByName: {},
   performerDirectoryUpdatedAt: null,
+  videos: [],
 };
 
 const els = {
@@ -26,6 +27,7 @@ const els = {
   statCount: document.getElementById("stat-count"),
   lastUpdated: document.getElementById("last-updated"),
   footerSpotlightContent: document.getElementById("footer-spotlight-content"),
+  youtubeGallery: document.getElementById("youtube-gallery"),
 };
 
 document.addEventListener("DOMContentLoaded", init);
@@ -35,6 +37,7 @@ async function init() {
 
   const payload = await loadEventPayload();
   const performerPayload = await loadPerformerPayload();
+  const videoPayload = await loadVideoPayload();
   state.events = sortEvents(payload.events || []);
   state.filteredEvents = [...state.events];
   state.updatedAt = payload.updatedAt || null;
@@ -42,6 +45,7 @@ async function init() {
   state.performersById = indexPerformersById(performerPayload.performers || []);
   state.performersByName = indexPerformersByName(performerPayload.performers || []);
   state.performerDirectoryUpdatedAt = performerPayload.fetchedAt || null;
+  state.videos = videoPayload.videos || [];
 
   populateSelectOptions("category", uniqueValues(state.events, "categoryLabel"));
   populateSelectOptions("venue", uniqueValues(state.events, "venueName"));
@@ -59,6 +63,7 @@ async function init() {
   renderMeta();
   applyFilters();
   renderFooterSpotlight();
+  renderYouTubeGallery();
 }
 
 async function loadEventPayload() {
@@ -92,6 +97,20 @@ async function loadPerformerPayload() {
   }
 }
 
+async function loadVideoPayload() {
+  const embedded = readEmbeddedVideos();
+
+  try {
+    const response = await fetch("./videos.json", { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    return await response.json();
+  } catch (error) {
+    return embedded;
+  }
+}
+
 function readEmbeddedEvents() {
   const node = document.getElementById("embedded-events");
   return JSON.parse(node.textContent);
@@ -101,6 +120,15 @@ function readEmbeddedPerformers() {
   const node = document.getElementById("embedded-performers");
   if (!node) {
     return { performers: [] };
+  }
+
+  return JSON.parse(node.textContent);
+}
+
+function readEmbeddedVideos() {
+  const node = document.getElementById("embedded-videos");
+  if (!node) {
+    return { videos: [] };
   }
 
   return JSON.parse(node.textContent);
@@ -635,6 +663,39 @@ function renderFooterSpotlight() {
     <p class="footer-spotlight__desc">${escapeHtml(event.description || "公開データベースからピックアップした注目公演です。")}</p>
     <a class="link-button link-button--primary" href="${escapeAttribute(event.sourceURL)}" target="_blank" rel="noreferrer">公式ページを見る</a>
   `;
+}
+
+function renderYouTubeGallery() {
+  if (!state.videos.length) {
+    els.youtubeGallery.innerHTML = "<p>YouTube 動画を表示できませんでした。</p>";
+    return;
+  }
+
+  els.youtubeGallery.innerHTML = state.videos
+    .map(
+      (video) => `
+        <article class="youtube-card">
+          <div class="youtube-card__frame">
+            <iframe
+              src="${escapeAttribute(video.embedURL)}"
+              title="${escapeAttribute(video.title)}"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+              referrerpolicy="strict-origin-when-cross-origin"
+            ></iframe>
+          </div>
+          <div class="youtube-card__body">
+            <p class="youtube-card__meta">${escapeHtml(video.viewCountText || "視聴数不明")} / ${escapeHtml(video.publishedText || "公開日不明")}</p>
+            <h3>${escapeHtml(video.title)}</h3>
+            <p class="youtube-card__channel">${escapeHtml(video.channelName || "YouTube")}</p>
+            <p class="youtube-card__note">${escapeHtml(video.durationText || "長さ未取得")}</p>
+            <a class="link-button link-button--secondary" href="${escapeAttribute(video.videoURL)}" target="_blank" rel="noreferrer">YouTubeで開く</a>
+          </div>
+        </article>
+      `
+    )
+    .join("");
 }
 
 function setStatus(message) {
