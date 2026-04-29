@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-04-28T00:13:27+00:00",
+  "fetchedAt": "2026-04-29T00:15:04+00:00",
   "count": 304,
   "performers": [
     {
@@ -3177,7 +3177,7 @@
       "websiteURL": "http://www.iz-design.sakura.ne.jp/~kikuchiyo/index.html",
       "profileURL": "https://www.rakugo-kyokai.jp/members/kjcsuhe1m",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/835c1a015aa04b108ba7c9ed3ad8cb54/63%E3%80%80%E5%8F%A4%E4%BB%8A%E4%BA%AD%E8%8F%8A%E5%8D%83%E4%BB%A3.jpg",
-      "sourceUpdatedAt": "2024-11-26T02:01:53.425Z",
+      "sourceUpdatedAt": "2026-04-28T06:30:36.101Z",
       "sourcePublishedAt": "2023-09-06T09:03:22.349Z",
       "shortBio": "落語(古典・新作・自作・手話・子供用・朝鮮・韓国)の他、司会、南京玉すだれ、獅子舞。\n文筆業(エッセイ・創作落語)、NGOピースボート水先案内人。\n世界各地へ落語発信。全国刑務所、少年・少女院慰問。\n横浜・新宿にて落語教室開催。",
       "publications": "著書：「古今亭菊千代、噺家です。」(日本出版社)\n2013年子供向け落語の本　偕成社より出版予定",
@@ -3250,6 +3250,15 @@
             "年月のみ表示"
           ],
           "content": "法務大臣表彰受賞"
+        }
+      ],
+      "prizeHighlights": [
+        {
+          "date": "2026-04-27T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "藍綬褒章受章"
         }
       ]
     },
