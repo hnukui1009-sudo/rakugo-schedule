@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-05-20T08:48:23+00:00",
+  "fetchedAt": "2026-05-21T08:52:33+00:00",
   "count": 304,
   "performers": [
     {
@@ -14211,21 +14211,25 @@
       "realName": "國井 洋太",
       "realNameKana": "くにい ようた",
       "ranks": [
-        "前座"
+        "二ツ目"
       ],
-      "category": "前座",
-      "categoryPath": "/members/z",
+      "category": "二ツ目",
+      "categoryPath": "/members/f",
       "status": "active",
       "birthDate": "1991-06-09T15:00:00.000Z",
       "birthDateFormat": [
         "全て表示"
       ],
-      "birthPlace": "愛知県",
+      "birthPlace": "愛知県春日井市",
+      "debayashi": "外記猿（二上がりの合方）",
+      "crest": "変わり羽団扇",
       "keyword": "柳家しろ八",
+      "websiteURL": "https://y-shiro8.com/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/1ir3wk916",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/0a6e0761bb52498c8a10f2199264a18c/295%E3%80%80%E6%9F%B3%E5%AE%B6%E3%81%97%E3%82%8D%E5%85%AB.jpg",
-      "sourceUpdatedAt": "2024-10-30T06:24:36.357Z",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/8aae7300ff5a44789eaff4b89ffb64c5/%E3%80%87%E6%9F%B3%E5%AE%B6%E3%81%97%E3%82%8D%E5%85%AB%20DSC_0576.jpg",
+      "sourceUpdatedAt": "2026-05-21T01:29:21.669Z",
       "sourcePublishedAt": "2023-09-08T08:27:55.656Z",
+      "shortBio": "清く、けだるく、朗らかに。",
       "careerHighlights": [
         {
           "date": "2019-11-30T15:00:00.000Z",
@@ -14240,6 +14244,13 @@
             "全て表示"
           ],
           "content": "前座となる　前座名「しろ八」"
+        },
+        {
+          "date": "2026-05-20T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "二ツ目昇進"
         }
       ]
     },
@@ -14253,20 +14264,23 @@
       "realName": "南原 遼",
       "realNameKana": "みなみはら りょう",
       "ranks": [
-        "前座"
+        "二ツ目"
       ],
-      "category": "前座",
-      "categoryPath": "/members/z",
+      "category": "二ツ目",
+      "categoryPath": "/members/f",
       "status": "active",
       "birthDate": "1995-07-27T15:00:00.000Z",
       "birthDateFormat": [
         "全て表示"
       ],
       "birthPlace": "長野県塩尻市",
+      "debayashi": "天竜くだれば",
+      "crest": "丸に花菱",
       "keyword": "柳亭市遼",
+      "websiteURL": "https://ryutei-ichiryo.com/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/59mse5idk",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/315d570d8f3a4760a74b98beaac89db8/296%E3%80%80%E6%9F%B3%E4%BA%AD%E5%B8%82%E9%81%BC.jpeg",
-      "sourceUpdatedAt": "2024-10-30T06:22:46.483Z",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/9a9e0c38a39a412082054143ac6efa45/%E3%80%87%E6%9F%B3%E4%BA%AD%E5%B8%82%E9%81%BC%20DSC_0638.jpg",
+      "sourceUpdatedAt": "2026-05-21T01:29:54.292Z",
       "sourcePublishedAt": "2023-09-08T08:27:56.678Z",
       "careerHighlights": [
         {
@@ -14282,6 +14296,13 @@
             "全て表示"
           ],
           "content": "前座となる　前座名「市遼」"
+        },
+        {
+          "date": "2026-05-20T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "二ツ目昇進"
         }
       ]
     },
@@ -14295,20 +14316,23 @@
       "realName": "深野 敦人",
       "realNameKana": "ふかの あつと",
       "ranks": [
-        "前座"
+        "二ツ目"
       ],
-      "category": "前座",
-      "categoryPath": "/members/z",
+      "category": "二ツ目",
+      "categoryPath": "/members/f",
       "status": "active",
       "birthDate": "1991-01-26T15:00:00.000Z",
       "birthDateFormat": [
         "全て表示"
       ],
       "birthPlace": "東京都東村山市",
+      "debayashi": "東村山音頭",
+      "crest": "丸に桔梗",
       "keyword": "三遊亭東村山",
+      "websiteURL": "https://rakugo-higashimurayama.com",
       "profileURL": "https://www.rakugo-kyokai.jp/members/j8vl78bp91kk",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/75390e4c5f5c40b4ab68a22ccfa6236c/297%E3%80%80%E4%B8%89%E9%81%8A%E4%BA%AD%E6%9D%B1%E6%9D%91%E5%B1%B1.jpg",
-      "sourceUpdatedAt": "2024-10-30T06:23:48.586Z",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/7ac96b23030e4068b68f5574a1e3879d/%E3%80%87%E4%B8%89%E9%81%8A%E4%BA%AD%E6%9D%B1%E6%9D%91%E5%B1%B1IMG_6975.jpeg",
+      "sourceUpdatedAt": "2026-05-21T01:30:22.680Z",
       "sourcePublishedAt": "2023-09-08T08:27:57.627Z",
       "careerHighlights": [
         {
@@ -14324,6 +14348,13 @@
             "全て表示"
           ],
           "content": "前座となる　前座名「東村山」"
+        },
+        {
+          "date": "2026-05-20T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "二ツ目昇進"
         }
       ]
     },
