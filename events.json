@@ -1,111 +1,7 @@
 {
-  "updatedAt": "2026-06-12T08:03:00+09:00",
-  "performerDirectoryUpdatedAt": "2026-06-11T23:03:00+00:00",
+  "updatedAt": "2026-06-13T07:53:32+09:00",
+  "performerDirectoryUpdatedAt": "2026-06-12T22:53:32+00:00",
   "events": [
-    {
-      "id": "rakugo-kyokai-rakugokai-pkudc8mqvh",
-      "title": "一龍斎春水が未来につなぐ「金子みすゞ伝」vol.4 13時の部",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-06-12T13:00:00+09:00",
-      "venueName": "深川江戸資料館 小劇場",
-      "venueAddress": "江東区白河1-3-28",
-      "area": "江東",
-      "prefecture": "東京都",
-      "performers": [
-        "春風亭 柳枝"
-      ],
-      "priceText": "前　売: 4000円 / 当　日: 4500円",
-      "description": "一般社団法人落語協会のホームページ。2026年06月12日：一龍斎春水が未来につなぐ「金子みすゞ伝」vol.4 13時の部ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/pkudc8mqvh",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/pkudc8mqvh",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
-      "firstSeenAt": "2026-06-07T07:35:54+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-ngkyi0bc3wjo",
-      "title": "今春、真打はじめました。",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-06-12T13:00:00+09:00",
-      "venueName": "らくごカフェ",
-      "venueAddress": "千代田区神田神保町2‐3‐5神田古書センター5階",
-      "prefecture": "東京都",
-      "performers": [
-        "華形家 八百八",
-        "三遊亭 円丈",
-        "柳家 小はん",
-        "三遊亭 歌奈女",
-        "船遊亭 扇歌"
-      ],
-      "performerIds": [
-        "yfrix8g2n",
-        "n4kc0irt1r",
-        "df62v6yu5",
-        "444gb8owdi"
-      ],
-      "priceText": "前　売: 2500円 / 当　日: 2800円",
-      "description": "一般社団法人落語協会のホームページ。2026年06月12日：今春、真打はじめました。ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/ngkyi0bc3wjo",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/ngkyi0bc3wjo",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
-      "firstSeenAt": "2026-06-07T07:35:54+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-ako4lntt0",
-      "title": "一龍斎春水が未来につなぐ「金子みすゞ伝」vol.4 18時の部",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-06-12T18:00:00+09:00",
-      "venueName": "深川江戸資料館 小劇場",
-      "venueAddress": "江東区白河1-3-28",
-      "area": "江東",
-      "prefecture": "東京都",
-      "performers": [
-        "春風亭 柳枝"
-      ],
-      "priceText": "前　売: 4000円 / 当　日: 4500円",
-      "description": "一般社団法人落語協会のホームページ。2026年06月12日：一龍斎春水が未来につなぐ「金子みすゞ伝」vol.4 18時の部ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/ako4lntt0",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/ako4lntt0",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
-      "firstSeenAt": "2026-06-07T07:35:54+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-am8-42f04",
-      "title": "渋谷らくご　しゃべっちゃいなよ",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-06-12T20:00:00+09:00",
-      "venueName": "ユーロライブ",
-      "venueAddress": "渋谷区円山町1-5 KINOHAUS 2F",
-      "area": "渋谷",
-      "prefecture": "東京都",
-      "performers": [
-        "三遊亭 天どん",
-        "柳家 花いち",
-        "柳家 風柳"
-      ],
-      "performerIds": [
-        "mdpacqi5hu",
-        "nqpj9t4b9",
-        "ky65zt9kmt"
-      ],
-      "priceText": "前　売: 2500 / 当　日: 2500 / その他: ＝大人2500円／学生1900円／高校生・落研1200円／ユーロスペース会員2200円",
-      "description": "一般社団法人落語協会のホームページ。2026年06月12日：渋谷らくご　しゃべっちゃいなよページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/am8_42f04",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/am8_42f04",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
-      "firstSeenAt": "2026-06-07T07:35:54+09:00"
-    },
     {
       "id": "rakugo-kyokai-rakugokai-5qgt93242nkb",
       "title": "わか馬のパドック【第六回】",
@@ -126,8 +22,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/5qgt93242nkb",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/5qgt93242nkb",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-08T07:35:39+09:00"
     },
     {
@@ -157,8 +53,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/eda20pt7yo",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/eda20pt7yo",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -182,8 +78,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/q190os-al_d",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/q190os-al_d",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-09T07:55:31+09:00"
     },
     {
@@ -203,8 +99,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/am-ht98h7bg",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/am-ht98h7bg",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-09T07:55:31+09:00"
     },
     {
@@ -224,8 +120,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0603/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0603/",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-11T09:14:34+09:00"
     },
     {
@@ -252,8 +148,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/cklwxc3uqx8i",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/cklwxc3uqx8i",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-09T07:55:31+09:00"
     },
     {
@@ -276,8 +172,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/g26u18t35k",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/g26u18t35k",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -297,8 +193,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/04_998_oqdx",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/04_998_oqdx",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-09T07:55:31+09:00"
     },
     {
@@ -318,8 +214,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/s9285emlbe",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/s9285emlbe",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -345,8 +241,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/wj5jgde3bsc",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/wj5jgde3bsc",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-08T07:35:39+09:00"
     },
     {
@@ -370,30 +266,9 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/lxyhu5ke2t8",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/lxyhu5ke2t8",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-08T07:35:39+09:00"
-    },
-    {
-      "id": "rakugo-kyokai-rakugokai-walsalz-6c",
-      "title": "つくしの若鮎落語会",
-      "category": "rakugokai",
-      "categoryLabel": "落語会",
-      "startAt": "2026-06-13T18:00:00+09:00",
-      "venueName": "スカイルーム太陽",
-      "venueAddress": "千代田区神田駿河台2-4-3 藤澤ビル5F",
-      "prefecture": "東京都",
-      "performers": [
-        "川柳 つくし"
-      ],
-      "priceText": "当　日: 2,000円",
-      "description": "一般社団法人落語協会のホームページ。2026年06月13日：つくしの若鮎落語会ページ",
-      "sourceName": "落語協会",
-      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/walsalz_6c",
-      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/walsalz_6c",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
-      "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-qvodaroal",
@@ -418,8 +293,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/qvodaroal",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/qvodaroal",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -442,8 +317,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/m_ic95pm4db",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/m_ic95pm4db",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -467,8 +342,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/rbgrymoo4",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/rbgrymoo4",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-09T07:55:31+09:00"
     },
     {
@@ -491,8 +366,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/75l_c-7p0",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/75l_c-7p0",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-09T07:55:31+09:00"
     },
     {
@@ -513,8 +388,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/luspl74or7d",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/luspl74or7d",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-08T07:35:39+09:00"
     },
     {
@@ -543,9 +418,39 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/k-2v4r6fs4_n",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/k-2v4r6fs4_n",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-3-fqknb-3ge",
+      "title": "落語協会サーフィン部海辺の寄席",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-06-14T10:00:00+09:00",
+      "venueName": "シラハマ校舎内レストランバルデルマル",
+      "venueAddress": "南房総市白浜町滝口5185-1",
+      "prefecture": "東京都",
+      "performers": [
+        "林家 きく姫",
+        "古今亭 圓菊",
+        "春風亭 一左",
+        "三遊亭 律歌"
+      ],
+      "performerIds": [
+        "qsr9k6c4ph",
+        "w29w8z0tq",
+        "3zljny1k0",
+        "xw3c9c31mg"
+      ],
+      "priceText": "当　日: 3000円",
+      "description": "一般社団法人落語協会のホームページ。2026年06月14日：落語協会サーフィン部海辺の寄席ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/3-fqknb-3ge",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/3-fqknb-3ge",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
+      "firstSeenAt": "2026-06-13T07:53:32+09:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-igklrvupa0",
@@ -569,8 +474,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/igklrvupa0",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/igklrvupa0",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-12T08:03:00+09:00"
     },
     {
@@ -598,8 +503,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/u2pwa3atn",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/u2pwa3atn",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -628,8 +533,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/whqb0itle",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/whqb0itle",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -652,8 +557,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/tac1s9kdo",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/tac1s9kdo",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -673,8 +578,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/obp9dc_n9ei",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/obp9dc_n9ei",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -698,8 +603,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/7czcvrmf8u0w",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/7czcvrmf8u0w",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -729,9 +634,108 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/98yg53cs6",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/98yg53cs6",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-jyddbqjg-rhg",
+      "title": "第3回OtowaAvenue寄席 春風亭いっ休独演会",
+      "category": "dokuenkai",
+      "categoryLabel": "独演会",
+      "startAt": "2026-06-14T14:00:00+09:00",
+      "venueName": "Otowa Avenue",
+      "venueAddress": "文京区音羽1-17-6 中銀音羽マンシオン2(階段上り奥)",
+      "area": "文京区",
+      "prefecture": "東京都",
+      "performers": [
+        "春風亭 いっ休"
+      ],
+      "performerIds": [
+        "bdo8puerk8e6"
+      ],
+      "priceText": "前　売: 2700円 / 当　日: 3000円 / その他: ウエルカムドリンク代込み\\n(スパークリングワインあり)",
+      "description": "一般社団法人落語協会のホームページ。2026年06月14日：第3回OtowaAvenue寄席 春風亭いっ休独演会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/jyddbqjg_rhg",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/jyddbqjg_rhg",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
+      "firstSeenAt": "2026-06-13T07:53:32+09:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-m3t349hzwsqg",
+      "title": "第14回コチソバ寄席 吉原あさひ・鈴々舎美馬二人会～博多つながり寄席番外編～",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-06-14T15:00:00+09:00",
+      "venueName": "コチソバ博多店",
+      "venueAddress": "福岡市博多区博多駅前3-19-22",
+      "prefecture": "東京都",
+      "performers": [
+        "吉原 あさひ",
+        "鈴々舎 美馬"
+      ],
+      "performerIds": [
+        "ixqgch0igi",
+        "nbxuhn8qvxe"
+      ],
+      "priceText": "前　売: 3000円 / 当　日: 3000円 / その他: ※全席自由席",
+      "description": "一般社団法人落語協会のホームページ。2026年06月14日：第14回コチソバ寄席 吉原あさひ・鈴々舎美馬二人会～博多つながり寄席番外編～ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/m3t349hzwsqg",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/m3t349hzwsqg",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
+      "firstSeenAt": "2026-06-13T07:53:32+09:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-3k754nncoup4",
+      "title": "花みずき落語会",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-06-14T16:00:00+09:00",
+      "venueName": "花みずき",
+      "venueAddress": "目黒区祐天寺2-9-5",
+      "prefecture": "東京都",
+      "performers": [
+        "三遊亭 わん丈"
+      ],
+      "priceText": "その他: 3,000円（食事を摂られるお客様は「予約」が必要です）\\n\\n開催日や開園時間など詳しくは直接電話にて確認を。(花みずき 　03-3710-7812)",
+      "description": "一般社団法人落語協会のホームページ。2026年06月14日：花みずき落語会ページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/3k754nncoup4",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/3k754nncoup4",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
+      "firstSeenAt": "2026-06-13T07:53:32+09:00"
+    },
+    {
+      "id": "rakugo-kyokai-rakugokai-57pvren3b54",
+      "title": "渋谷らくご",
+      "category": "rakugokai",
+      "categoryLabel": "落語会",
+      "startAt": "2026-06-14T17:00:00+09:00",
+      "venueName": "ユーロライブ",
+      "venueAddress": "渋谷区円山町1-5 KINOHAUS 2F",
+      "area": "渋谷",
+      "prefecture": "東京都",
+      "performers": [
+        "蜃気楼 龍玉",
+        "春風 一刀"
+      ],
+      "performerIds": [
+        "pa6gx5pgg1",
+        "iuviij3u4a"
+      ],
+      "priceText": "前　売: 2500 / 当　日: 2500 / その他: ＝大人2500円／学生1900円／高校生・落研1200円／ユーロスペース会員2200円",
+      "description": "一般社団法人落語協会のホームページ。2026年06月14日：渋谷らくごページ",
+      "sourceName": "落語協会",
+      "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/57pvren3b54",
+      "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/57pvren3b54",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
+      "firstSeenAt": "2026-06-13T07:53:32+09:00"
     },
     {
       "id": "rakugo-kyokai-rakugokai-whv5hrw0sj",
@@ -754,8 +758,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/whv5hrw0sj",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/whv5hrw0sj",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -778,8 +782,8 @@
       "sourceName": "落語協会",
       "sourceURL": "https://www.rakugo-kyokai.jp/rakugokai/j8j29elidzst",
       "ticketURL": "https://www.rakugo-kyokai.jp/rakugokai/j8j29elidzst",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -799,8 +803,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0602/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0602/",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-11T09:14:34+09:00"
     },
     {
@@ -820,8 +824,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17183",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17183",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-04T08:34:36+09:00"
     },
     {
@@ -841,8 +845,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17199",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17199",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-09T15:09:23+09:00"
     },
     {
@@ -862,8 +866,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17248",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17248",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-28T07:56:07+09:00"
     },
     {
@@ -883,8 +887,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17158",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17158",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-04-26T13:58:10+09:00"
     },
     {
@@ -904,8 +908,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17249",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17249",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-28T07:56:07+09:00"
     },
     {
@@ -925,8 +929,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17250",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17250",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-28T07:56:07+09:00"
     },
     {
@@ -946,8 +950,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17200",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17200",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-09T15:09:23+09:00"
     },
     {
@@ -967,8 +971,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17226",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17226",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-21T17:52:33+09:00"
     },
     {
@@ -988,8 +992,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17227",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17227",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-21T17:52:33+09:00"
     },
     {
@@ -1009,8 +1013,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17290",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17290",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -1030,8 +1034,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17241",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17241",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
     },
     {
@@ -1051,8 +1055,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0703/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0703/",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
     },
     {
@@ -1072,8 +1076,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17228",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17228",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-21T17:52:33+09:00"
     },
     {
@@ -1093,8 +1097,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17291",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17291",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -1114,8 +1118,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0701/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0701/",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-18T20:56:23+09:00"
     },
     {
@@ -1135,8 +1139,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0705/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0705/",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
     },
     {
@@ -1156,9 +1160,30 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17253",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17253",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-29T07:51:22+09:00"
+    },
+    {
+      "id": "geikyo-jyoseki-17308",
+      "title": "お江戸上野広小路亭 七月中席　7月11日〜15日",
+      "category": "yose",
+      "categoryLabel": "寄席",
+      "startAt": "2026-07-11T12:00:00+09:00",
+      "endAt": "2026-07-15T20:30:00+09:00",
+      "venueName": "お江戸上野広小路亭",
+      "area": "上野",
+      "prefecture": "東京都",
+      "performers": [
+
+      ],
+      "description": "落語芸術協会の定席スケジュール掲載情報。",
+      "sourceName": "落語芸術協会",
+      "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17308",
+      "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17308",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
+      "firstSeenAt": "2026-06-13T07:53:32+09:00"
     },
     {
       "id": "geikyo-jyoseki-17242",
@@ -1177,8 +1202,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17242",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17242",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
     },
     {
@@ -1198,8 +1223,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17279",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17279",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -1219,8 +1244,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0702/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0702/",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -1240,8 +1265,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17254",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17254",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-29T07:51:22+09:00"
     },
     {
@@ -1261,8 +1286,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17280",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17280",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -1282,8 +1307,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17281",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17281",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -1303,8 +1328,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17282",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17282",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -1324,8 +1349,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17283",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17283",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -1345,8 +1370,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17297",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17297",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -1366,8 +1391,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17243",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17243",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
     },
     {
@@ -1387,8 +1412,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17298",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17298",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -1408,8 +1433,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17299",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17299",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -1429,8 +1454,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0704/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0704/",
-      "lastConfirmedAt": "2026-06-12T08:03:00+09:00",
-      "fetchedAt": "2026-06-12T08:03:00+09:00",
+      "lastConfirmedAt": "2026-06-13T07:53:32+09:00",
+      "fetchedAt": "2026-06-13T07:53:32+09:00",
       "firstSeenAt": "2026-06-03T08:14:53+09:00"
     }
   ]
