@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-06-17T08:01:53+09:00",
-  "performerDirectoryUpdatedAt": "2026-06-16T23:01:53+00:00",
+  "updatedAt": "2026-06-18T07:57:17+09:00",
+  "performerDirectoryUpdatedAt": "2026-06-17T22:57:17+00:00",
   "events": [
-    {
-      "id": "kodankyokai-https-kodankyokai-jp-e3-81-aa-e3-81-a7-e3-81-97-e3-81-93-e3-81-8f-e3-82-89-e3-81-b6-55-instance-id-12655",
-      "title": "なでしこくらぶ",
-      "category": "kodan",
-      "categoryLabel": "講談",
-      "startAt": "2026-06-17T09:30:00+09:00",
-      "prefecture": "東京都",
-      "priceText": "当日2,500円 ／ 前売・予約2,000円 ／ 団体割引（10名様以上）1,800円出演者： あおい「波布娘」／こなぎ「辻兵内」／すみれ「六条御息所」／仲入り／貞寿 神田茜作「小さな恋のメロンディ」／一邑「木村長門守堪忍袋」問合せ： 048-989-4769　すみれ   &nbsp\" />",
-      "description": "神田すみれ主催の講談協会女性講談師の会です。毎回テーマを決めてそれにちなんだお話をお届けします。開演：13時料金：当日2,500円 ／ 前売・予約2,000円 ／ 団体割引（10名様以上）1,800円出演者： あおい「波布娘」／こなぎ「辻兵内」／すみれ「六条御息所」／仲入り／貞寿 神田茜作「小さな恋のメロンディ」／一邑「木村長門守堪忍袋」問合せ： 048-989-4769　すみれ   &nbsp",
-      "sourceName": "講談協会",
-      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%81%aa%e3%81%a7%e3%81%97%e3%81%93%e3%81%8f%e3%82%89%e3%81%b6-55/?instance_id=12655",
-      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%81%aa%e3%81%a7%e3%81%97%e3%81%93%e3%81%8f%e3%82%89%e3%81%b6-55/?instance_id=12655",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
-      "firstSeenAt": "2026-06-16T14:13:33+09:00"
-    },
     {
       "id": "kodankyokai-https-kodankyokai-jp-e6-9c-9d-e3-81-ae-ef-bc-81-e5-ae-9d-e4-ba-95-e7-90-b4-e6-98-9f-e4-b8-80-e9-96-80-e4-bc-9a-29-instance-id-12818",
       "title": "朝の！宝井琴星一門会",
@@ -30,8 +14,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%9c%9d%e3%81%ae%ef%bc%81%e5%ae%9d%e4%ba%95%e7%90%b4%e6%98%9f%e4%b8%80%e9%96%80%e4%bc%9a-29/?instance_id=12818",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%9c%9d%e3%81%ae%ef%bc%81%e5%ae%9d%e4%ba%95%e7%90%b4%e6%98%9f%e4%b8%80%e9%96%80%e4%bc%9a-29/?instance_id=12818",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -47,8 +31,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e6%98%bc%e5%b8%ad-27/?instance_id=12467",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e6%98%bc%e5%b8%ad-27/?instance_id=12467",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -64,8 +48,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e5%a4%9c%e5%b8%ad-29/?instance_id=12461",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e5%a4%9c%e5%b8%ad-29/?instance_id=12461",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -82,8 +66,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/984",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/984",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -98,8 +82,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e9%8b%ad%e8%ac%9b%e8%ab%87%e4%bc%9a-30/?instance_id=12798",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e9%8b%ad%e8%ac%9b%e8%ab%87%e4%bc%9a-30/?instance_id=12798",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -117,8 +101,8 @@
       "sourceName": "浅草東洋館",
       "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1474770700-705214",
       "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1474770700-705214",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -133,8 +117,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%b2%9e%e5%bc%a5%e3%83%bb%e5%b0%8f%e7%87%95%e6%9e%9d%e4%ba%8c%e4%ba%ba%e4%bc%9a-2/?instance_id=12853",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%b2%9e%e5%bc%a5%e3%83%bb%e5%b0%8f%e7%87%95%e6%9e%9d%e4%ba%8c%e4%ba%ba%e4%bc%9a-2/?instance_id=12853",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -154,8 +138,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17199",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17199",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-09T15:09:23+09:00"
     },
     {
@@ -175,8 +159,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17248",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17248",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-28T07:56:07+09:00"
     },
     {
@@ -196,8 +180,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17158",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17158",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-04-26T13:58:10+09:00"
     },
     {
@@ -216,8 +200,8 @@
       "sourceName": "浅草東洋館",
       "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1448069821-478927",
       "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1448069821-478927",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -232,8 +216,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%ac%9b%e8%ab%87%e4%ba%8c%e3%83%84%e7%9b%ae%e6%99%82%e4%bb%a3-23/?instance_id=12499",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%ac%9b%e8%ab%87%e4%ba%8c%e3%83%84%e7%9b%ae%e6%99%82%e4%bb%a3-23/?instance_id=12499",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -253,8 +237,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17249",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17249",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-28T07:56:07+09:00"
     },
     {
@@ -269,8 +253,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%a5%9e%e7%94%b0%e3%81%99%e3%81%bf%e3%82%8c%e4%b8%80%e9%96%80%e4%bc%9a-5/?instance_id=12650",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%a5%9e%e7%94%b0%e3%81%99%e3%81%bf%e3%82%8c%e4%b8%80%e9%96%80%e4%bc%9a-5/?instance_id=12650",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -290,8 +274,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17250",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17250",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-28T07:56:07+09:00"
     },
     {
@@ -311,8 +295,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17200",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17200",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-09T15:09:23+09:00"
     },
     {
@@ -330,8 +314,8 @@
       "sourceName": "浅草東洋館",
       "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1426208823-438320",
       "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1426208823-438320",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -351,8 +335,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17226",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17226",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-21T17:52:33+09:00"
     },
     {
@@ -372,8 +356,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17227",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17227",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-21T17:52:33+09:00"
     },
     {
@@ -393,8 +377,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17290",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17290",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -414,9 +398,29 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17241",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17241",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
+    },
+    {
+      "id": "toyokan-1444886269-576843",
+      "title": "【漫才協会】７月上席",
+      "category": "toyokan",
+      "categoryLabel": "浅草東洋館",
+      "startAt": "2026-07-01T12:30:00+09:00",
+      "endAt": "2026-07-09T21:00:00+09:00",
+      "venueName": "浅草東洋館",
+      "venueAddress": "東京都台東区浅草1-43-12",
+      "area": "浅草",
+      "prefecture": "東京都",
+      "priceText": "大人：3,000 円 学生：2,500 円 小人：1,500 円 \r\n        \r\n        開場：12時00分　　開演：12時30分　※当日券のみ。再入場不可。入れ替えなし。",
+      "description": "【漫才協会】７月上席の公式スケジュール掲載情報。",
+      "sourceName": "浅草東洋館",
+      "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1444886269-576843",
+      "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1444886269-576843",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
+      "firstSeenAt": "2026-06-18T07:57:17+09:00"
     },
     {
       "id": "kabuki-976",
@@ -431,8 +435,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/976",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/976",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -448,8 +452,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/shinbashi/play/968",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/shinbashi/play/968",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -469,8 +473,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0703/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0703/",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
     },
     {
@@ -490,8 +494,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17228",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17228",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-21T17:52:33+09:00"
     },
     {
@@ -511,8 +515,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17291",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17291",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -532,8 +536,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0701/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0701/",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-18T20:56:23+09:00"
     },
     {
@@ -549,8 +553,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/jyungyou/play/973",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/jyungyou/play/973",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -570,9 +574,28 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0705/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0705/",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
+    },
+    {
+      "id": "toyokan-1439689015-980966",
+      "title": "【漫才協会】「漫才特選会」",
+      "category": "toyokan",
+      "categoryLabel": "浅草東洋館",
+      "startAt": "2026-07-10T12:30:00+09:00",
+      "venueName": "浅草東洋館",
+      "venueAddress": "東京都台東区浅草1-43-12",
+      "area": "浅草",
+      "prefecture": "東京都",
+      "priceText": "大人：3,000 円 学生：2,500 円 小人：1,500 円 \r\n        \r\n        開場：12時00分　　開演：12時30分　※当日券のみ。再入場不可。入れ替えなし。",
+      "description": "【漫才協会】「漫才特選会」の公式スケジュール掲載情報。",
+      "sourceName": "浅草東洋館",
+      "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1439689015-980966",
+      "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1439689015-980966",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
+      "firstSeenAt": "2026-06-18T07:57:17+09:00"
     },
     {
       "id": "geikyo-jyoseki-17253",
@@ -591,8 +614,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17253",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17253",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-29T07:51:22+09:00"
     },
     {
@@ -612,8 +635,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17308",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17308",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-13T07:53:32+09:00"
     },
     {
@@ -633,9 +656,29 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17242",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17242",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
+    },
+    {
+      "id": "toyokan-1434352979-540849",
+      "title": "【漫才協会】７月中席",
+      "category": "toyokan",
+      "categoryLabel": "浅草東洋館",
+      "startAt": "2026-07-11T12:30:00+09:00",
+      "endAt": "2026-07-19T21:00:00+09:00",
+      "venueName": "浅草東洋館",
+      "venueAddress": "東京都台東区浅草1-43-12",
+      "area": "浅草",
+      "prefecture": "東京都",
+      "priceText": "大人：3,000 円 学生：2,500 円 小人：1,500 円 \r\n        \r\n        開場：12時00分　　開演：12時30分　※当日券のみ。再入場不可。入れ替えなし。",
+      "description": "【漫才協会】７月中席の公式スケジュール掲載情報。",
+      "sourceName": "浅草東洋館",
+      "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434352979-540849",
+      "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434352979-540849",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
+      "firstSeenAt": "2026-06-18T07:57:17+09:00"
     },
     {
       "id": "geikyo-jyoseki-17279",
@@ -654,8 +697,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17279",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17279",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -675,8 +718,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0702/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0702/",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-10T07:56:49+09:00"
     },
     {
@@ -696,8 +739,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17254",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17254",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-29T07:51:22+09:00"
     },
     {
@@ -717,8 +760,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17280",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17280",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -738,8 +781,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17281",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17281",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -759,8 +802,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17282",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17282",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
     },
     {
@@ -780,9 +823,28 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17283",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17283",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-07T07:35:54+09:00"
+    },
+    {
+      "id": "toyokan-1434503148-453789",
+      "title": "【東京演芸協会】「多流寄席」東京演芸協会 VS プロダクション人力舎",
+      "category": "toyokan",
+      "categoryLabel": "浅草東洋館",
+      "startAt": "2026-07-20T12:30:00+09:00",
+      "venueName": "浅草東洋館",
+      "venueAddress": "東京都台東区浅草1-43-12",
+      "area": "浅草",
+      "prefecture": "東京都",
+      "priceText": "大人：3,000 円 学生：2,500 円 小人：1,500 円 \r\n        \r\n        開場：12時00分　　開演：12時30分　※当日券のみ。再入場不可。入れ替えなし。",
+      "description": "【東京演芸協会】「多流寄席」東京演芸協会 VS プロダクション人力舎の公式スケジュール掲載情報。",
+      "sourceName": "浅草東洋館",
+      "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434503148-453789",
+      "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434503148-453789",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
+      "firstSeenAt": "2026-06-18T07:57:17+09:00"
     },
     {
       "id": "geikyo-jyoseki-17315",
@@ -801,8 +863,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17315",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17315",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-15T07:40:25+09:00"
     },
     {
@@ -822,8 +884,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17297",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17297",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -843,9 +905,29 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17243",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17243",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-05-26T07:34:18+09:00"
+    },
+    {
+      "id": "toyokan-1445573780-103812",
+      "title": "【ボーイズ・バラエティー協会】7月下席",
+      "category": "toyokan",
+      "categoryLabel": "浅草東洋館",
+      "startAt": "2026-07-21T12:30:00+09:00",
+      "endAt": "2026-07-29T21:00:00+09:00",
+      "venueName": "浅草東洋館",
+      "venueAddress": "東京都台東区浅草1-43-12",
+      "area": "浅草",
+      "prefecture": "東京都",
+      "priceText": "大人：3,000 円 学生：2,500 円 小人：1,500 円 \r\n        \r\n        開場：12時00分　　開演：12時30分　※当日券のみ。再入場不可。入れ替えなし。",
+      "description": "【ボーイズ・バラエティー協会】7月下席の公式スケジュール掲載情報。",
+      "sourceName": "浅草東洋館",
+      "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1445573780-103812",
+      "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1445573780-103812",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
+      "firstSeenAt": "2026-06-18T07:57:17+09:00"
     },
     {
       "id": "geikyo-jyoseki-17298",
@@ -864,8 +946,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17298",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17298",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -885,8 +967,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17299",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17299",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-11T08:03:10+09:00"
     },
     {
@@ -906,9 +988,47 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0704/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/0704/",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-03T08:14:53+09:00"
+    },
+    {
+      "id": "toyokan-1434510902-632726",
+      "title": "【ボーイズ・バラエティー協会】「特選　ボーイズ＆バラエティー」",
+      "category": "toyokan",
+      "categoryLabel": "浅草東洋館",
+      "startAt": "2026-07-30T12:30:00+09:00",
+      "venueName": "浅草東洋館",
+      "venueAddress": "東京都台東区浅草1-43-12",
+      "area": "浅草",
+      "prefecture": "東京都",
+      "priceText": "大人：3,000 円 学生：2,500 円 小人：1,500 円 \r\n        \r\n        開場：12時00分　　開演：12時30分　※当日券のみ。再入場不可。入れ替えなし。",
+      "description": "【ボーイズ・バラエティー協会】「特選　ボーイズ＆バラエティー」の公式スケジュール掲載情報。",
+      "sourceName": "浅草東洋館",
+      "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434510902-632726",
+      "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434510902-632726",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
+      "firstSeenAt": "2026-06-18T07:57:17+09:00"
+    },
+    {
+      "id": "toyokan-1434511098-068657",
+      "title": "準備中です☆注目の公演☆【東洋館スペシャル寄席2026】●13:30までにご入場いただいたお客様に東洋館名物「東羊羹」お一人様おひとつプレゼント！さらに「東羊羹」おみくじ付、 大吉がでたら東洋館観覧券プレゼント！",
+      "category": "toyokan",
+      "categoryLabel": "浅草東洋館",
+      "startAt": "2026-07-31T12:30:00+09:00",
+      "venueName": "浅草東洋館",
+      "venueAddress": "東京都台東区浅草1-43-12",
+      "area": "浅草",
+      "prefecture": "東京都",
+      "priceText": "大人：3,500 円 学生：3,000 円 小人：2,000 円 \r\n        \r\n        開場：11時45分　開演：12時30分　終演：16時35分頃　※入替えなし。再入場不可。",
+      "description": "準備中です☆注目の公演☆【東洋館スペシャル寄席2026】●13:30までにご入場いただいたお客様に東洋館名物「東羊羹」お一人様おひとつプレゼント！さらに「東羊羹」おみくじ付、 大吉がでたら東洋館観覧券プレゼント！の公式スケジュール掲載情報。",
+      "sourceName": "浅草東洋館",
+      "sourceURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434511098-068657",
+      "ticketURL": "https://www.asakusatoyokan.com/timetable/new.php?detail_data=1434511098-068657",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
+      "firstSeenAt": "2026-06-18T07:57:17+09:00"
     },
     {
       "id": "geikyo-jyoseki-17318",
@@ -927,8 +1047,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17318",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17318",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T08:15:34+09:00"
     },
     {
@@ -944,8 +1064,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/977",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/977",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -965,8 +1085,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17319",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17319",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T08:15:34+09:00"
     },
     {
@@ -982,8 +1102,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/978",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/978",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1000,8 +1120,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/955",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/955",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1018,8 +1138,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/983",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/983",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1035,8 +1155,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/982",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/982",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1052,8 +1172,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/985",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/985",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1070,8 +1190,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/965",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/965",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1087,8 +1207,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/986",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/986",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1104,8 +1224,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/989",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/989",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1121,8 +1241,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/987",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/987",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -1139,8 +1259,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/956",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/956",
-      "lastConfirmedAt": "2026-06-17T08:01:53+09:00",
-      "fetchedAt": "2026-06-17T08:01:53+09:00",
+      "lastConfirmedAt": "2026-06-18T07:57:17+09:00",
+      "fetchedAt": "2026-06-18T07:57:17+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     }
   ]
