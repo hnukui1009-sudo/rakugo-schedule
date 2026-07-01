@@ -1,8 +1,8 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-06-30T22:47:30+00:00",
-  "count": 304,
+  "fetchedAt": "2026-07-01T22:46:04+00:00",
+  "count": 303,
   "performers": [
     {
       "id": "11knaxeb0",
@@ -3866,72 +3866,6 @@
             "年のみ表示"
           ],
           "content": "林家彦六賞"
-        }
-      ]
-    },
-    {
-      "id": "4r5wsnw37b",
-      "displayName": "金原亭 生駒",
-      "normalizedName": "金原亭生駒",
-      "geimei": "生駒",
-      "teigo": "金原亭",
-      "displayNameKana": "きんげんてい いこま",
-      "realName": "山﨑 博",
-      "realNameKana": "やまざき ひろし",
-      "ranks": [
-        "真打"
-      ],
-      "category": "真打",
-      "categoryPath": "/members",
-      "status": "active",
-      "birthDate": "1961-09-05T15:00:00.000Z",
-      "birthDateFormat": [
-        "全て表示"
-      ],
-      "birthPlace": "神奈川県川崎大師",
-      "debayashi": "京の四季",
-      "crest": "裏梅",
-      "keyword": "金原亭生駒",
-      "profileURL": "https://www.rakugo-kyokai.jp/members/4r5wsnw37b",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/c38123f7765a4ab58ba3141b08a0194a/%E9%87%91%E5%8E%9F%E4%BA%AD%E7%94%9F%E9%A7%92.jpg",
-      "sourceUpdatedAt": "2025-04-29T02:06:55.957Z",
-      "sourcePublishedAt": "2023-09-06T09:26:08.862Z",
-      "shortBio": "ＴＶ\n「笑点」（日テレ）真打口上\n「江戸馬百景」（グリーンチャンネル）\n\n落語\n　落語協会の「黒門亭」\n　横浜の「にぎわい座」\n\n等に出演しております。",
-      "careerHighlights": [
-        {
-          "date": "1979-11-30T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "十代目金原亭馬生に入門　前座名「駒七」"
-        },
-        {
-          "date": "1981-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "師他界、兄弟子の伯楽一門へ"
-        },
-        {
-          "date": "1983-03-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "二ツ目昇進"
-        },
-        {
-          "date": "1995-02-28T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "真打昇進"
-        },
-        {
-          "date": "2019-05-31T15:00:00.000Z",
-          "dateFormat": [
-            "全て表示"
-          ],
-          "content": "「金原亭生駒」と改名"
         }
       ]
     },
