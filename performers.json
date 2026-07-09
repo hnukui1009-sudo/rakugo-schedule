@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-07-08T22:31:06+00:00",
+  "fetchedAt": "2026-07-09T22:48:58+00:00",
   "count": 303,
   "performers": [
     {
@@ -11807,7 +11807,7 @@
       "websiteURL": "http://s-ichihana.com/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/40qfbegf64",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/2681b82a8abe48978c23256fb5b0016d/244%E3%80%80%E6%98%A5%E9%A2%A8%E4%BA%AD%E4%B8%80%E8%8A%B1.jpeg",
-      "sourceUpdatedAt": "2025-10-26T04:50:25.164Z",
+      "sourceUpdatedAt": "2026-07-09T06:37:20.172Z",
       "sourcePublishedAt": "2023-09-06T09:30:58.303Z",
       "careerHighlights": [
         {
@@ -11838,14 +11838,14 @@
           "dateFormat": [
             "年月のみ表示"
           ],
-          "content": "第１９回さがみはら若手落語家選手権優勝"
+          "content": "第19回さがみはら若手落語家選手権　優勝"
         },
         {
           "date": "2025-10-24T15:00:00.000Z",
           "dateFormat": [
             "年月のみ表示"
           ],
-          "content": "令和７年度NHK新人落語大賞　大賞受賞「厩火事」"
+          "content": "令和7年度NHK新人落語大賞　大賞受賞 「厩火事」"
         }
       ]
     },
