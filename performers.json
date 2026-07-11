@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-07-09T22:48:58+00:00",
+  "fetchedAt": "2026-07-11T22:13:35+00:00",
   "count": 303,
   "performers": [
     {
@@ -392,74 +392,6 @@
             "年のみ表示"
           ],
           "content": "大須くるみ(三遊亭笑くぼ) 弟子を取る"
-        }
-      ]
-    },
-    {
-      "id": "ipwcqh6k3",
-      "displayName": "金原亭 伯楽",
-      "normalizedName": "金原亭伯楽",
-      "geimei": "伯楽",
-      "teigo": "金原亭",
-      "displayNameKana": "きんげんてい はくらく",
-      "realName": "津野良弘",
-      "realNameKana": "つのよしひろ",
-      "ranks": [
-        "真打"
-      ],
-      "category": "真打",
-      "categoryPath": "/members",
-      "status": "active",
-      "birthDate": "1939-02-15T15:00:00.000Z",
-      "birthDateFormat": [
-        "全て表示"
-      ],
-      "birthPlace": "神奈川県横浜市",
-      "debayashi": "鞍馬",
-      "crest": "鬼蔦",
-      "keyword": "金原亭伯楽",
-      "profileURL": "https://www.rakugo-kyokai.jp/members/ipwcqh6k3",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/714522153988482d900a39f03214f1b3/7%E3%80%80%E9%87%91%E5%8E%9F%E4%BA%AD%E4%BC%AF%E6%A5%BD.JPG",
-      "sourceUpdatedAt": "2026-03-30T03:51:08.650Z",
-      "sourcePublishedAt": "2023-09-05T14:25:04.125Z",
-      "publications": "著書：「小説　落語協団騒動記」\n　　　　「小説　古今亭志ん朝」\n　　　　「落語小説　江島屋」",
-      "careerHighlights": [
-        {
-          "date": "1961-03-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "十代目金原亭馬生に入門　前座名「桂太」"
-        },
-        {
-          "date": "1964-08-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "二ツ目昇進"
-        },
-        {
-          "date": "1973-08-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "真打昇進"
-        },
-        {
-          "date": "1980-02-29T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "「金原亭伯楽」と改名"
-        }
-      ],
-      "prizeHighlights": [
-        {
-          "date": "2005-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "平成18年度（第61回）文化庁芸術祭賞\n演芸部門《優秀賞》受賞　「伯楽文生二人会」"
         }
       ]
     },
@@ -17101,6 +17033,74 @@
             "全て表示"
           ],
           "content": "落語協会入会"
+        }
+      ]
+    },
+    {
+      "id": "ipwcqh6k3",
+      "displayName": "金原亭 伯楽",
+      "normalizedName": "金原亭伯楽",
+      "geimei": "伯楽",
+      "teigo": "金原亭",
+      "displayNameKana": "きんげんてい はくらく",
+      "realName": "津野良弘",
+      "realNameKana": "つのよしひろ",
+      "ranks": [
+        "物故者"
+      ],
+      "category": "物故者",
+      "categoryPath": "/members/b",
+      "status": "deceased",
+      "birthDate": "1939-02-15T15:00:00.000Z",
+      "birthDateFormat": [
+        "全て表示"
+      ],
+      "birthPlace": "神奈川県横浜市",
+      "debayashi": "鞍馬",
+      "crest": "鬼蔦",
+      "keyword": "金原亭伯楽",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/ipwcqh6k3",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/714522153988482d900a39f03214f1b3/7%E3%80%80%E9%87%91%E5%8E%9F%E4%BA%AD%E4%BC%AF%E6%A5%BD.JPG",
+      "sourceUpdatedAt": "2026-07-10T02:56:00.581Z",
+      "sourcePublishedAt": "2023-09-05T14:25:04.125Z",
+      "publications": "著書：「小説　落語協団騒動記」\n　　　　「小説　古今亭志ん朝」\n　　　　「落語小説　江島屋」",
+      "careerHighlights": [
+        {
+          "date": "1961-03-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "十代目金原亭馬生に入門　前座名「桂太」"
+        },
+        {
+          "date": "1964-08-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "二ツ目昇進"
+        },
+        {
+          "date": "1973-08-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "真打昇進"
+        },
+        {
+          "date": "1980-02-29T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "「金原亭伯楽」と改名"
+        }
+      ],
+      "prizeHighlights": [
+        {
+          "date": "2005-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "平成18年度（第61回）文化庁芸術祭賞\n演芸部門《優秀賞》受賞　「伯楽文生二人会」"
         }
       ]
     },
