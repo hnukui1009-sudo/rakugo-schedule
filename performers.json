@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-07-19T22:15:00+00:00",
+  "fetchedAt": "2026-07-21T22:17:53+00:00",
   "count": 303,
   "performers": [
     {
@@ -11563,11 +11563,11 @@
     },
     {
       "id": "96ooh5941",
-      "displayName": "三遊亭 歌実",
-      "normalizedName": "三遊亭歌実",
-      "geimei": "歌実",
+      "displayName": "三遊亭 歌ちどき",
+      "normalizedName": "三遊亭歌ちどき",
+      "geimei": "歌ちどき",
       "teigo": "三遊亭",
-      "displayNameKana": "さんゆうてい かじつ",
+      "displayNameKana": "さんゆうてい かちどき",
       "realName": "塩満 拓也",
       "realNameKana": "しおみつ たくや",
       "ranks": [
@@ -11585,7 +11585,7 @@
       "keyword": "三遊亭歌実",
       "profileURL": "https://www.rakugo-kyokai.jp/members/96ooh5941",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/e40989d7e6db4ccab53407cd584f3e13/239%E3%80%80%E4%B8%89%E9%81%8A%E4%BA%AD%E6%AD%8C%E5%AE%9F.jpg",
-      "sourceUpdatedAt": "2024-10-31T06:23:16.092Z",
+      "sourceUpdatedAt": "2026-07-21T05:31:03.651Z",
       "sourcePublishedAt": "2023-09-06T09:30:53.410Z",
       "shortBio": "鹿児島実業高校出身の歌実です。\n新作、古典問わずお客様にたくさい笑って頂けるような高座を目指しております。",
       "careerHighlights": [
@@ -11609,6 +11609,13 @@
             "全て表示"
           ],
           "content": "二ツ目昇進"
+        },
+        {
+          "date": "2026-07-20T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "歌武蔵門下となる　「歌ちどき」と改名"
         }
       ]
     },
