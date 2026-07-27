@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-07-26T22:18:56+00:00",
+  "fetchedAt": "2026-07-27T22:33:18+00:00",
   "count": 303,
   "performers": [
     {
@@ -11582,10 +11582,11 @@
       ],
       "birthPlace": "鹿児島県鹿児島市",
       "debayashi": "茶碗むしの唄",
-      "keyword": "三遊亭歌実",
+      "keyword": "三遊亭歌実　三遊亭歌ちどき",
+      "websiteURL": "https://www.instagram.com/sanyuteikachidoki/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/96ooh5941",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/e40989d7e6db4ccab53407cd584f3e13/239%E3%80%80%E4%B8%89%E9%81%8A%E4%BA%AD%E6%AD%8C%E5%AE%9F.jpg",
-      "sourceUpdatedAt": "2026-07-24T04:29:47.008Z",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/90e8b8808c70477c9e0a8b18130f2045/%E4%B8%89%E9%81%8A%E4%BA%AD%E6%AD%8C%E3%81%A1%E3%81%A9%E3%81%8D%EF%BC%88%E5%80%8B%E4%BA%BA%EF%BC%89.jpg",
+      "sourceUpdatedAt": "2026-07-27T02:22:41.969Z",
       "sourcePublishedAt": "2023-09-06T09:30:53.410Z",
       "shortBio": "鹿児島実業高校出身の歌ちどきです。\n新作、古典問わずお客様にたくさい笑って頂けるような高座を目指しております。",
       "careerHighlights": [
