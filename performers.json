@@ -1,8 +1,8 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-07-31T22:30:22+00:00",
-  "count": 303,
+  "fetchedAt": "2026-08-01T22:17:09+00:00",
+  "count": 306,
   "performers": [
     {
       "id": "11knaxeb0",
@@ -10125,7 +10125,7 @@
       "websiteURL": "https://hanahei.hayashiya.online/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/un8f2s09juiy",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/6a0bc153714a4e09b925e043d10ebdb4/207%E3%80%80%E6%9E%97%E5%AE%B6%E3%81%AF%E3%81%AA%E5%B9%B3.jpg",
-      "sourceUpdatedAt": "2024-11-05T01:59:38.129Z",
+      "sourceUpdatedAt": "2026-08-01T07:06:07.464Z",
       "sourcePublishedAt": "2023-09-06T09:29:56.370Z",
       "shortBio": "落語をはじめて聴く方に親しみやすい落語をします。\nYouTubeでは初心者向けに落語に関する配信をしています。\n\nグッズ 「HANA SHOP」\nhttps://hanahei.base.shop/\n\nYouTube 「はじめての落語」\nhttps://www.youtube.com/user/okkotonushi87",
       "publications": "書籍：『山田全自動と林家はな平の落語あるある』（辰巳出版）",
@@ -10186,6 +10186,13 @@
             "年月のみ表示"
           ],
           "content": "令和5年度　国立演芸場「花形演芸大賞」銀賞"
+        },
+        {
+          "date": "2026-07-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "令和7年度　彩の国落語大賞「紀州」"
         }
       ]
     },
@@ -14483,6 +14490,123 @@
             "全て表示"
           ],
           "content": "前座となる　前座名「小すも」"
+        }
+      ]
+    },
+    {
+      "id": "vtl737lvgc",
+      "displayName": "林家 あい香",
+      "normalizedName": "林家あい香",
+      "geimei": "あい香",
+      "teigo": "林家",
+      "displayNameKana": "はやしや あいか",
+      "ranks": [
+        "前座"
+      ],
+      "category": "前座",
+      "categoryPath": "/members/z",
+      "status": "active",
+      "birthDate": "1999-03-08T15:00:00.000Z",
+      "birthDateFormat": [
+        "月日のみ表示"
+      ],
+      "birthPlace": "埼玉県",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/vtl737lvgc",
+      "sourceUpdatedAt": "2026-08-01T09:05:23.133Z",
+      "sourcePublishedAt": "2026-08-01T01:11:54.949Z",
+      "careerHighlights": [
+        {
+          "date": "2025-11-30T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "林家たい平に入門"
+        },
+        {
+          "date": "2026-07-31T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "前座となる　前座名「あい香」"
+        }
+      ]
+    },
+    {
+      "id": "ku0064bgo",
+      "displayName": "春風亭 いっ世",
+      "normalizedName": "春風亭いっ世",
+      "geimei": "いっ世",
+      "teigo": "春風亭",
+      "displayNameKana": "しゅんぷうてい いっせい",
+      "realName": "藤岡 佑輔",
+      "realNameKana": "ふじおか ゆうすけ",
+      "ranks": [
+        "前座"
+      ],
+      "category": "前座",
+      "categoryPath": "/members/z",
+      "status": "active",
+      "birthDate": "1997-02-19T15:00:00.000Z",
+      "birthDateFormat": [
+        "全て表示"
+      ],
+      "profileURL": "https://www.rakugo-kyokai.jp/members/ku0064bgo",
+      "sourceUpdatedAt": "2026-08-01T01:12:17.326Z",
+      "sourcePublishedAt": "2026-08-01T01:12:17.326Z",
+      "careerHighlights": [
+        {
+          "date": "2026-01-13T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "春風亭一之輔に入門"
+        },
+        {
+          "date": "2026-07-31T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "前座となる　前座名「いっ世」"
+        }
+      ]
+    },
+    {
+      "id": "my8htfo9fkrc",
+      "displayName": "古今亭 ひでふみ",
+      "normalizedName": "古今亭ひでふみ",
+      "geimei": "ひでふみ",
+      "teigo": "古今亭",
+      "displayNameKana": "ここんてい ひでふみ",
+      "realName": "久保木 秀",
+      "realNameKana": "くぼき しゅう",
+      "ranks": [
+        "前座"
+      ],
+      "category": "前座",
+      "categoryPath": "/members/z",
+      "status": "active",
+      "birthDate": "1999-08-08T15:00:00.000Z",
+      "birthDateFormat": [
+        "全て表示"
+      ],
+      "birthPlace": "福島県",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/my8htfo9fkrc",
+      "sourceUpdatedAt": "2026-08-01T01:12:37.974Z",
+      "sourcePublishedAt": "2026-08-01T01:12:37.974Z",
+      "careerHighlights": [
+        {
+          "date": "2026-02-02T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "古今亭文菊に入門"
+        },
+        {
+          "date": "2026-07-31T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "前座となる　前座名「ひでふみ」"
         }
       ]
     },
