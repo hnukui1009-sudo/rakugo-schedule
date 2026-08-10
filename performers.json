@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-08-09T21:56:30+00:00",
+  "fetchedAt": "2026-08-10T22:04:57+00:00",
   "count": 306,
   "performers": [
     {
@@ -27,10 +27,9 @@
       "debayashi": "本調子のっと",
       "crest": "鈴、裏梅",
       "keyword": "鈴々舎馬風",
-      "websiteURL": "http://bafuitimon.com/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/11knaxeb0",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/e4a91ffaef2547a2804f8e0dd79bbfd8/1%E3%80%80%E9%88%B4%E3%80%85%E8%88%8E%E9%A6%AC%E9%A2%A8.jpg",
-      "sourceUpdatedAt": "2024-02-23T03:32:18.627Z",
+      "sourceUpdatedAt": "2026-08-10T01:52:27.798Z",
       "sourcePublishedAt": "2023-09-05T06:33:09.984Z",
       "shortBio": "「笑点」「やじうま寄席」「街かどテレビ」やプロレスの呼び出しで人気落語家となる。\n後輩や弟子の面倒見の良さは随一。高座では、自作「会長への道」などで、楽屋にいる先輩、同僚を主役に当意即妙なアドリブで寄席を沸かしている。明るく豪快な高座には定評がある。その他演歌、百面相、物まね、形態模写、司会など余芸も多彩である。\n平成八年には芸歴四十周年を期して落語と同名の「会長への道」を執筆、前座の修業時代から現在に至るまでの回想録。笑いあり涙ありの随筆。小学館より好評発売中。",
       "publications": "CD　：「猫の災難」「紙入れ」\nDVD：「禁酒番屋」「男の井戸端会議」\n著書：「会長への道」",
@@ -7127,102 +7126,6 @@
       ]
     },
     {
-      "id": "pa6gx5pgg1",
-      "displayName": "蜃気楼 龍玉",
-      "normalizedName": "蜃気楼龍玉",
-      "geimei": "龍玉",
-      "teigo": "蜃気楼",
-      "displayNameKana": "しんきろう りゅうぎょく",
-      "realName": "加藤 暢彦",
-      "realNameKana": "かとう のぶひこ",
-      "ranks": [
-        "真打"
-      ],
-      "category": "真打",
-      "categoryPath": "/members",
-      "status": "active",
-      "birthDate": "1972-11-09T15:00:00.000Z",
-      "birthDateFormat": [
-        "全て表示"
-      ],
-      "birthPlace": "埼玉県秩父市",
-      "debayashi": "三下り箱根八里",
-      "crest": "裏梅",
-      "keyword": "蜃気楼龍玉",
-      "websiteURL": "https://shinkiro-ryugyoku.hatenablog.com/",
-      "profileURL": "https://www.rakugo-kyokai.jp/members/pa6gx5pgg1",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/9f9acdb26b50484a84146184a9f22759/143%E3%80%80%E8%9C%83%E6%B0%97%E6%A5%BC%E9%BE%8D%E7%8E%89.jpg",
-      "sourceUpdatedAt": "2026-06-18T04:24:13.974Z",
-      "sourcePublishedAt": "2023-09-06T09:28:11.043Z",
-      "careerHighlights": [
-        {
-          "date": "1997-01-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "六代目五街道雲助に入門　前座名「のぼり」"
-        },
-        {
-          "date": "2000-05-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "二ツ目昇進　「金原亭駒七」と改名"
-        },
-        {
-          "date": "2005-01-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "「五街道弥助」と改名"
-        },
-        {
-          "date": "2010-08-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "真打昇進　三代目「蜃気楼龍玉」を襲名"
-        }
-      ],
-      "prizeHighlights": [
-        {
-          "date": "1999-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "岡本マキ賞"
-        },
-        {
-          "date": "2007-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "第18回　北とぴあ若手落語競演会大賞"
-        },
-        {
-          "date": "2014-03-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "平成25年度　国立演芸場「花形演芸大賞」銀賞"
-        },
-        {
-          "date": "2013-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年のみ表示"
-          ],
-          "content": "第69回　文化庁芸術祭新人賞"
-        },
-        {
-          "date": "2016-02-29T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "平成27年度　国立演芸場「花形演芸大賞」大賞"
-        }
-      ]
-    },
-    {
       "id": "m4pvfrc5ldkc",
       "displayName": "春風亭 一之輔",
       "normalizedName": "春風亭一之輔",
@@ -10581,12 +10484,12 @@
       "debayashi": "オーシャンゼリゼ",
       "crest": "中陰光琳蔦",
       "keyword": "林家希林",
-      "websiteURL": "http://ameblo.jp/kirinnss/",
+      "websiteURL": "https://kirin-promotion.com/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/u2octucs20o",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/43a6efdc93374734b31cac6f53c8f5a7/214%E3%80%80%E6%9E%97%E5%AE%B6%E5%B8%8C%E6%9E%97.jpg",
-      "sourceUpdatedAt": "2024-11-05T01:51:40.102Z",
+      "sourceUpdatedAt": "2026-08-10T01:24:23.192Z",
       "sourcePublishedAt": "2023-09-06T09:30:00.569Z",
-      "shortBio": "落語家の林家希林と申します。\n浅草生まれ、身長193センチ体重105キロ、あの大谷翔平選手と身長体重が同じで、落語にはまったく必要のないポテンシャルを持つ世界一の落語家です！（身長が）\n父は大関清國で相撲部屋という特殊な環境で育ち、師匠林家木久扇に入門いたしました。\nわかりやすい落語をモットーにお子様から楽しんでもらえる落語を致します。\nよろしくお願いいたします！",
+      "shortBio": "落語家の林家希林と申します。\n浅草生まれ、身長193センチ体重105キロ、あの大谷翔平選手と身長体重が同じで、落語にはまったく必要のないポテンシャルを持つ世界一の落語家です！（身長が）\n父は大関清國で相撲部屋という特殊な環境で育ち、師匠林家木久扇に入門いたしました。\nわかりやすい落語をモットーにお子様から楽しんでもらえる落語を致します。\nよろしくお願いいたします！\n\n\n林家希林オフィシャルブログ\nhttps://ameblo.jp/kirinnss/\n\nInstagram",
       "careerHighlights": [
         {
           "date": "2009-02-28T15:00:00.000Z",
@@ -17169,6 +17072,102 @@
             "全て表示"
           ],
           "content": "落語協会入会"
+        }
+      ]
+    },
+    {
+      "id": "pa6gx5pgg1",
+      "displayName": "蜃気楼 龍玉",
+      "normalizedName": "蜃気楼龍玉",
+      "geimei": "龍玉",
+      "teigo": "蜃気楼",
+      "displayNameKana": "しんきろう りゅうぎょく",
+      "realName": "加藤 暢彦",
+      "realNameKana": "かとう のぶひこ",
+      "ranks": [
+        "物故者"
+      ],
+      "category": "物故者",
+      "categoryPath": "/members/b",
+      "status": "deceased",
+      "birthDate": "1972-11-09T15:00:00.000Z",
+      "birthDateFormat": [
+        "全て表示"
+      ],
+      "birthPlace": "埼玉県秩父市",
+      "debayashi": "三下り箱根八里",
+      "crest": "裏梅",
+      "keyword": "蜃気楼龍玉",
+      "websiteURL": "https://shinkiro-ryugyoku.hatenablog.com/",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/pa6gx5pgg1",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/9f9acdb26b50484a84146184a9f22759/143%E3%80%80%E8%9C%83%E6%B0%97%E6%A5%BC%E9%BE%8D%E7%8E%89.jpg",
+      "sourceUpdatedAt": "2026-08-10T05:39:46.289Z",
+      "sourcePublishedAt": "2023-09-06T09:28:11.043Z",
+      "careerHighlights": [
+        {
+          "date": "1997-01-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "六代目五街道雲助に入門　前座名「のぼり」"
+        },
+        {
+          "date": "2000-05-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "二ツ目昇進　「金原亭駒七」と改名"
+        },
+        {
+          "date": "2005-01-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "「五街道弥助」と改名"
+        },
+        {
+          "date": "2010-08-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "真打昇進　三代目「蜃気楼龍玉」を襲名"
+        }
+      ],
+      "prizeHighlights": [
+        {
+          "date": "1999-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "岡本マキ賞"
+        },
+        {
+          "date": "2007-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "第18回　北とぴあ若手落語競演会大賞"
+        },
+        {
+          "date": "2014-03-31T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "平成25年度　国立演芸場「花形演芸大賞」銀賞"
+        },
+        {
+          "date": "2013-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "第69回　文化庁芸術祭新人賞"
+        },
+        {
+          "date": "2016-02-29T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "平成27年度　国立演芸場「花形演芸大賞」大賞"
         }
       ]
     },
