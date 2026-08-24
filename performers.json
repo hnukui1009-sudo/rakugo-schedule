@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-08-23T21:43:54+00:00",
+  "fetchedAt": "2026-08-24T21:51:41+00:00",
   "count": 306,
   "performers": [
     {
@@ -14455,9 +14455,10 @@
       "birthDateFormat": [
         "全て表示"
       ],
+      "birthPlace": "北海道札幌市",
       "profileURL": "https://www.rakugo-kyokai.jp/members/ku0064bgo",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/d45be4bab68749b2937866b406c64bed/image0.jpeg",
-      "sourceUpdatedAt": "2026-08-03T01:37:53.097Z",
+      "sourceUpdatedAt": "2026-08-24T08:46:31.001Z",
       "sourcePublishedAt": "2026-08-01T01:12:17.326Z",
       "careerHighlights": [
         {
