@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-09-03T23:23:09+00:00",
+  "fetchedAt": "2026-09-06T22:58:41+00:00",
   "count": 306,
   "performers": [
     {
@@ -11879,7 +11879,7 @@
       "keyword": "金原亭馬太郎",
       "profileURL": "https://www.rakugo-kyokai.jp/members/7tz6u1komfyk",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/35594e647d4e46409cdae48a2773d4b8/249%E3%80%80%E9%87%91%E5%8E%9F%E4%BA%AD%E9%A6%AC%E5%A4%AA%E9%83%8E.jpg",
-      "sourceUpdatedAt": "2024-10-30T07:30:16.259Z",
+      "sourceUpdatedAt": "2026-09-05T08:35:35.139Z",
       "sourcePublishedAt": "2023-09-06T09:31:03.462Z",
       "careerHighlights": [
         {
@@ -11902,6 +11902,15 @@
             "全て表示"
           ],
           "content": "二ツ目昇進　「馬太郎」と改名"
+        }
+      ],
+      "prizeHighlights": [
+        {
+          "date": "2026-09-04T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "第37回北とぴあ若手落語家競演会　奨励賞"
         }
       ]
     },
@@ -12450,7 +12459,7 @@
       "websiteURL": "https://3-g-2c.webnode.jp/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/2s1wlvfkzh",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/75d9c5c3bc874b3e9aa9765e23dabecb/261%E3%80%80%E4%B8%89%E9%81%8A%E4%BA%AD%E3%81%90%E3%82%93%E3%81%BE.jpeg",
-      "sourceUpdatedAt": "2024-10-30T06:47:37.722Z",
+      "sourceUpdatedAt": "2026-09-05T08:34:48.124Z",
       "sourcePublishedAt": "2023-09-06T09:31:12.708Z",
       "shortBio": "趣味：プロレス（ルーテーズ以前から現在まで）・銭湯・サウナ・水風呂めぐり\n\n新作落語（自作）、古典落語、どちらもやります。\nお客様に楽しんで頂けるように努めて参ります。\n詳しい情報はホームページをご覧下さい。",
       "careerHighlights": [
@@ -12474,6 +12483,15 @@
             "全て表示"
           ],
           "content": "二ツ目昇進"
+        }
+      ],
+      "prizeHighlights": [
+        {
+          "date": "2026-09-04T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "第37回北とぴあ若手落語家競演会　大賞"
         }
       ]
     },
