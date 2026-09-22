@@ -1,8 +1,8 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-09-20T23:21:18+00:00",
-  "count": 306,
+  "fetchedAt": "2026-09-22T00:13:42+00:00",
+  "count": 307,
   "performers": [
     {
       "id": "11knaxeb0",
@@ -11398,6 +11398,82 @@
       ]
     },
     {
+      "id": "40qfbegf64",
+      "displayName": "春風亭 一花",
+      "normalizedName": "春風亭一花",
+      "geimei": "一花",
+      "teigo": "春風亭",
+      "displayNameKana": "しゅんぷうてい いちはな",
+      "realName": "大津 奈央",
+      "realNameKana": "おおつ なお",
+      "ranks": [
+        "真打"
+      ],
+      "category": "真打",
+      "categoryPath": "/members",
+      "status": "active",
+      "birthDate": "1987-01-25T15:00:00.000Z",
+      "birthDateFormat": [
+        "全て表示"
+      ],
+      "birthPlace": "東京都台東区",
+      "debayashi": "晒女（さらしめ）",
+      "crest": "中陰光琳蔦",
+      "keyword": "春風亭一花",
+      "websiteURL": "http://s-ichihana.com/",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/40qfbegf64",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/623f7f638a5d4d0fbe66e33b4679c5a1/%E6%98%A5%E9%A2%A8%E4%BA%AD%E4%B8%80%E8%8A%B1%EF%BC%882026%E7%A7%8B%EF%BC%89.jpg",
+      "sourceUpdatedAt": "2026-09-21T01:00:04.881Z",
+      "sourcePublishedAt": "2023-09-06T09:30:58.303Z",
+      "shortBio": "特技は似顔絵を描くことと笛。",
+      "careerHighlights": [
+        {
+          "date": "2013-04-30T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "春風亭一朝に入門"
+        },
+        {
+          "date": "2014-10-31T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "前座となる　前座名「一花」"
+        },
+        {
+          "date": "2018-03-20T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "二ツ目昇進"
+        },
+        {
+          "date": "2026-09-20T15:00:00.000Z",
+          "dateFormat": [
+            "全て表示"
+          ],
+          "content": "真打昇進"
+        }
+      ],
+      "prizeHighlights": [
+        {
+          "date": "2020-11-30T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "第19回さがみはら若手落語家選手権　優勝"
+        },
+        {
+          "date": "2025-10-24T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "令和7年度NHK新人落語大賞　大賞受賞 「厩火事」"
+        }
+      ]
+    },
+    {
       "id": "c8b7pv3fckci",
       "displayName": "宝井 琴調",
       "normalizedName": "宝井琴調",
@@ -11628,74 +11704,6 @@
             "全て表示"
           ],
           "content": "二ツ目昇進"
-        }
-      ]
-    },
-    {
-      "id": "40qfbegf64",
-      "displayName": "春風亭 一花",
-      "normalizedName": "春風亭一花",
-      "geimei": "一花",
-      "teigo": "春風亭",
-      "displayNameKana": "しゅんぷうてい いちはな",
-      "realName": "大津 奈央",
-      "realNameKana": "おおつ なお",
-      "ranks": [
-        "二ツ目"
-      ],
-      "category": "二ツ目",
-      "categoryPath": "/members/f",
-      "status": "active",
-      "birthDate": "1987-01-25T15:00:00.000Z",
-      "birthDateFormat": [
-        "全て表示"
-      ],
-      "birthPlace": "東京都台東区",
-      "debayashi": "晒女",
-      "crest": "中陰光琳蔦",
-      "keyword": "春風亭一花",
-      "websiteURL": "http://s-ichihana.com/",
-      "profileURL": "https://www.rakugo-kyokai.jp/members/40qfbegf64",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/2681b82a8abe48978c23256fb5b0016d/244%E3%80%80%E6%98%A5%E9%A2%A8%E4%BA%AD%E4%B8%80%E8%8A%B1.jpeg",
-      "sourceUpdatedAt": "2026-09-01T04:43:05.544Z",
-      "sourcePublishedAt": "2023-09-06T09:30:58.303Z",
-      "careerHighlights": [
-        {
-          "date": "2013-04-30T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "春風亭一朝に入門"
-        },
-        {
-          "date": "2014-10-31T15:00:00.000Z",
-          "dateFormat": [
-            "全て表示"
-          ],
-          "content": "前座となる　前座名「一花」"
-        },
-        {
-          "date": "2018-03-20T15:00:00.000Z",
-          "dateFormat": [
-            "全て表示"
-          ],
-          "content": "二ツ目昇進"
-        }
-      ],
-      "prizeHighlights": [
-        {
-          "date": "2020-11-30T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "第19回さがみはら若手落語家選手権　優勝"
-        },
-        {
-          "date": "2025-10-24T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "令和7年度NHK新人落語大賞　大賞受賞 「厩火事」"
         }
       ]
     },
@@ -16723,6 +16731,73 @@
             "年月のみ表示"
           ],
           "content": "勝丸とコンビ結成"
+        }
+      ]
+    },
+    {
+      "id": "vmx7o5ix6",
+      "displayName": "ハンジロウ",
+      "normalizedName": "ハンジロウ",
+      "geimei": "ハンジロウ",
+      "displayNameKana": "はんじろう",
+      "ranks": [
+        "色物"
+      ],
+      "category": "色物",
+      "categoryPath": "/members/i",
+      "status": "active",
+      "birthDate": "2003-03-31T15:00:00.000Z",
+      "birthDateFormat": [
+        "年月のみ表示"
+      ],
+      "keyword": "ハンジロウ",
+      "websiteURL": "https://www.maseki.co.jp/talent/HANJIRO",
+      "profileURL": "https://www.rakugo-kyokai.jp/members/vmx7o5ix6",
+      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/a4805c3a81af4eb88b293d73f3d1b9a9/%E3%83%8F%E3%83%B3%E3%82%B8%E3%83%AD%E3%82%A6%EF%BC%88%E5%80%8B%E4%BA%BA%EF%BC%89.jpeg",
+      "sourceUpdatedAt": "2026-09-21T01:31:02.494Z",
+      "sourcePublishedAt": "2026-09-21T01:31:02.494Z",
+      "prizeHighlights": [
+        {
+          "date": "2005-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "第1回　ナンバーワンローカル芸人決定戦L-1グランプリ 優勝"
+        },
+        {
+          "date": "2006-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "第1回沖縄ナンバーワン芸人決定戦 新春!oh笑い O-1グランプリ 優勝"
+        },
+        {
+          "date": "2013-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "新人内さまライブ チャンピオン大会2014 優勝"
+        },
+        {
+          "date": "2015-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "じわじわチャップリン（テレビ東京）第2回チャンピオン大会 優勝"
+        },
+        {
+          "date": "2022-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "第5回「ビートたけし杯 お笑い日本一」優勝"
+        },
+        {
+          "date": "2023-12-31T15:00:00.000Z",
+          "dateFormat": [
+            "年のみ表示"
+          ],
+          "content": "THE SECOND ～漫才トーナメント～（フジテレビ）決勝戦進出"
         }
       ]
     },
