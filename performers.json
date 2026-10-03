@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-10-02T00:57:55+00:00",
+  "fetchedAt": "2026-10-03T00:36:59+00:00",
   "count": 307,
   "performers": [
     {
@@ -15504,10 +15504,11 @@
       "birthDateFormat": [
         "表示しない"
       ],
+      "debayashi": "ギザギザハートの子守唄",
       "keyword": "ホンキートンク",
       "profileURL": "https://www.rakugo-kyokai.jp/members/pxe6qmdzk2y4",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/0faf17f794224879900b2ddbb8b4a773/%E3%83%9B%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3%E3%82%AF_5415.jpg",
-      "sourceUpdatedAt": "2024-05-07T06:31:17.279Z",
+      "sourceUpdatedAt": "2026-10-02T07:43:15.626Z",
       "sourcePublishedAt": "2023-09-08T08:25:10.684Z",
       "careerHighlights": [
         {
@@ -16750,12 +16751,13 @@
       "birthDateFormat": [
         "年月のみ表示"
       ],
+      "birthPlace": "沖縄県",
       "debayashi": "オジー自慢のオリオンビール",
       "keyword": "ハンジロウ",
       "websiteURL": "https://www.maseki.co.jp/talent/HANJIRO",
       "profileURL": "https://www.rakugo-kyokai.jp/members/vmx7o5ix6",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/a4805c3a81af4eb88b293d73f3d1b9a9/%E3%83%8F%E3%83%B3%E3%82%B8%E3%83%AD%E3%82%A6%EF%BC%88%E5%80%8B%E4%BA%BA%EF%BC%89.jpeg",
-      "sourceUpdatedAt": "2026-09-29T01:19:10.598Z",
+      "sourceUpdatedAt": "2026-10-02T08:23:25.894Z",
       "sourcePublishedAt": "2026-09-21T01:31:02.494Z",
       "shortBio": "YouTube「ハンジロウチャンネル」\nhttps://www.youtube.com/@hanjiro_youtube\n\nTikTok「ハンジロウ＠hanjirou1984」\nhttps://www.tiktok.com/@hanjirou1984",
       "careerHighlights": [
