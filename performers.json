@@ -1,7 +1,7 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-10-08T01:07:39+00:00",
+  "fetchedAt": "2026-10-09T01:21:08+00:00",
   "count": 307,
   "performers": [
     {
@@ -12794,7 +12794,7 @@
       "websiteURL": "https://utahiko-3yutei.com/",
       "profileURL": "https://www.rakugo-kyokai.jp/members/mn0234d61l4",
       "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/8a316c4eb09040a1a1c59056aed636a6/268%E3%80%80%E4%B8%89%E9%81%8A%E4%BA%AD%E6%AD%8C%E5%BD%A6.jpg",
-      "sourceUpdatedAt": "2024-10-30T06:43:08.392Z",
+      "sourceUpdatedAt": "2026-10-08T04:32:28.049Z",
       "sourcePublishedAt": "2023-09-06T09:31:19.328Z",
       "careerHighlights": [
         {
@@ -12817,6 +12817,15 @@
             "全て表示"
           ],
           "content": "二ツ目昇進　「歌彦」と改名"
+        }
+      ],
+      "prizeHighlights": [
+        {
+          "date": "2026-09-30T15:00:00.000Z",
+          "dateFormat": [
+            "年月のみ表示"
+          ],
+          "content": "第四回水戸みやぎん寄席席亭賞"
         }
       ]
     },
