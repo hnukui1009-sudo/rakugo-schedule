@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T10:06:00+09:00",
-  "performerDirectoryUpdatedAt": "2026-10-29T01:06:00+00:00",
+  "updatedAt": "2026-10-30T10:11:41+09:00",
+  "performerDirectoryUpdatedAt": "2026-10-30T01:11:41+00:00",
   "events": [
     {
       "id": "kodankyokai-https-kodankyokai-jp-e6-b5-aa-e3-80-85-e8-ab-87-e3-80-85-4-instance-id-12929",
@@ -14,8 +14,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e3%80%85%e8%ab%87%e3%80%85-4/?instance_id=12929",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e3%80%85%e8%ab%87%e3%80%85-4/?instance_id=12929",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-01T09:39:50+09:00"
     },
     {
@@ -35,8 +35,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1003/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1003/",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-08-25T06:51:41+09:00"
     },
     {
@@ -52,8 +52,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/986",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/986",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -73,8 +73,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17612",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17612",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -94,8 +94,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17613",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17613",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -115,8 +115,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17645",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17645",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-10T10:02:57+09:00"
     },
     {
@@ -136,8 +136,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17627",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17627",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-03T09:36:59+09:00"
     },
     {
@@ -152,8 +152,8 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-101/?instance_id=12733",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-101/?instance_id=12733",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-01T09:39:50+09:00"
     },
     {
@@ -169,8 +169,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/989",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/989",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -186,8 +186,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1001",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1001",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-08-11T07:04:57+09:00"
     },
     {
@@ -207,8 +207,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1101/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1101/",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-26T09:01:28+09:00"
     },
     {
@@ -228,8 +228,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17614",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17614",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -249,8 +249,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17646",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17646",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-10T10:02:57+09:00"
     },
     {
@@ -270,8 +270,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17616",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17616",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -291,8 +291,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17678",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17678",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-17T08:44:57+09:00"
     },
     {
@@ -312,8 +312,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17628",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17628",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-03T09:36:59+09:00"
     },
     {
@@ -333,8 +333,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17617",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17617",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-30T09:37:17+09:00"
     },
     {
@@ -354,8 +354,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17638",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17638",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
     },
     {
@@ -375,8 +375,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1102/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1102/",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
     },
     {
@@ -396,8 +396,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17667",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17667",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -417,8 +417,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17663",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17663",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -438,8 +438,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17629",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17629",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-03T09:36:59+09:00"
     },
     {
@@ -459,8 +459,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17664",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17664",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -480,8 +480,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17666",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17666",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -501,8 +501,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1103/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1103/",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-19T08:25:42+09:00"
     },
     {
@@ -519,8 +519,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/994",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/994",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-07T07:58:41+09:00"
     },
     {
@@ -540,8 +540,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17686",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17686",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-21T09:00:53+09:00"
     },
     {
@@ -557,8 +557,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/987",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/987",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -578,8 +578,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17702",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17702",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-29T10:06:00+09:00"
     },
     {
@@ -599,8 +599,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1201/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1201/",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-27T09:39:17+09:00"
     },
     {
@@ -620,8 +620,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17687",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17687",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-21T09:00:53+09:00"
     },
     {
@@ -636,8 +636,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1009",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1009",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-18T08:37:17+09:00"
     },
     {
@@ -657,8 +657,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1203/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1203/",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-15T09:00:52+09:00"
     },
     {
@@ -674,8 +674,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/997",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/997",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-07-18T07:12:17+09:00"
     },
     {
@@ -692,9 +692,26 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1000",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1000",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-08-04T07:32:13+09:00"
+    },
+    {
+      "id": "kabuki-1010",
+      "title": "初春大歌舞伎",
+      "category": "kabuki",
+      "categoryLabel": "歌舞伎",
+      "startAt": "2027-01-03T11:00:00+09:00",
+      "endAt": "2027-01-27T20:00:00+09:00",
+      "venueName": "新橋演舞場",
+      "prefecture": "東京都",
+      "description": "新橋演舞場の歌舞伎公演公式スケジュール掲載情報。",
+      "sourceName": "歌舞伎美人",
+      "sourceURL": "https://www.kabuki-bito.jp/theaters/shinbashi/play/1010",
+      "ticketURL": "https://www.kabuki-bito.jp/theaters/shinbashi/play/1010",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
+      "firstSeenAt": "2026-10-30T10:11:41+09:00"
     },
     {
       "id": "kabuki-1011",
@@ -709,8 +726,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1011",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1011",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
     },
     {
@@ -727,8 +744,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/975",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/975",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-07-12T07:13:35+09:00"
     },
     {
@@ -744,8 +761,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1006",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1006",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-08-30T08:28:21+09:00"
     },
     {
@@ -761,8 +778,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/998",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/998",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-07-18T07:12:17+09:00"
     },
     {
@@ -779,8 +796,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/956",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/956",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -796,8 +813,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/999",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/999",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-07-18T07:12:17+09:00"
     },
     {
@@ -813,8 +830,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1013",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1013",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-17T08:44:57+09:00"
     },
     {
@@ -830,8 +847,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1012",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1012",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
     },
     {
@@ -848,8 +865,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/1008",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/1008",
-      "lastConfirmedAt": "2026-10-29T10:06:00+09:00",
-      "fetchedAt": "2026-10-29T10:06:00+09:00",
+      "lastConfirmedAt": "2026-10-30T10:11:41+09:00",
+      "fetchedAt": "2026-10-30T10:11:41+09:00",
       "firstSeenAt": "2026-09-10T08:23:54+09:00"
     }
   ]
