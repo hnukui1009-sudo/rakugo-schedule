@@ -1,28 +1,7 @@
 {
-  "updatedAt": "2026-10-31T09:55:35+09:00",
-  "performerDirectoryUpdatedAt": "2026-10-31T00:55:35+00:00",
+  "updatedAt": "2026-11-01T09:16:15+09:00",
+  "performerDirectoryUpdatedAt": "2026-11-01T00:16:15+00:00",
   "events": [
-    {
-      "id": "ntj-schedule-engei-2026-1003",
-      "title": "10月花形演芸会",
-      "category": "hall",
-      "categoryLabel": "ホール落語",
-      "startAt": "2026-10-31T13:00:00+09:00",
-      "endAt": "2026-10-31T16:00:00+09:00",
-      "venueName": "渋谷区文化総合センター大和田6階伝承ホール",
-      "area": "渋谷",
-      "prefecture": "東京都",
-      "performers": [
-
-      ],
-      "description": "国立演芸場主催公演の公式スケジュール掲載情報。",
-      "sourceName": "国立演芸場",
-      "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1003/",
-      "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1003/",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
-      "firstSeenAt": "2026-08-25T06:51:41+09:00"
-    },
     {
       "id": "kabuki-986",
       "title": "吉例顔見世大歌舞伎",
@@ -36,8 +15,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/986",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/986",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -57,8 +36,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17612",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17612",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -78,8 +57,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17613",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17613",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -99,8 +78,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17645",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17645",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-10T10:02:57+09:00"
     },
     {
@@ -120,8 +99,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17627",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17627",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-03T09:36:59+09:00"
     },
     {
@@ -136,9 +115,25 @@
       "sourceName": "講談協会",
       "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-101/?instance_id=12733",
       "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-101/?instance_id=12733",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-01T09:39:50+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-b4-a5-e3-81-ae-e5-ae-88-e8-ac-9b-e8-ab-87-e4-bc-9a-102-instance-id-12735",
+      "title": "津の守講談会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-02T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日3,000円 ／ 予約2,800円 ／ご贔屓連・25歳以下2,000円（要 身分証明書提示）出演：前座（3名予定）／おりびあ／香織／仲入り／貞橘／鶴英「宮城道雄 春の海」問合せ：03-4363-6335 講談協会※会場は靴を脱いで上がる形式です。   \" />",
+      "description": "毎月1日～3日まで開催講談協会の定席ですチケット予約のフォームからご予約できます開演：13時終演：15時30分頃料金：当日3,000円 ／ 予約2,800円 ／ご贔屓連・25歳以下2,000円（要 身分証明書提示）出演：前座（3名予定）／おりびあ／香織／仲入り／貞橘／鶴英「宮城道雄 春の海」問合せ：03-4363-6335 講談協会※会場は靴を脱いで上がる形式です。",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-102/?instance_id=12735",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-102/?instance_id=12735",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
     },
     {
       "id": "kabuki-989",
@@ -153,9 +148,41 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/989",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/989",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-b4-a5-e3-81-ae-e5-ae-88-e8-ac-9b-e8-ab-87-e4-bc-9a-103-instance-id-12737",
+      "title": "津の守講談会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-03T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日3,000円 ／ 予約2,800円 ／ご贔屓連・25歳以下2,000円（要 身分証明書提示）出演：前座（3名予定）／優星／琴柳／仲入り／すみれ／琴梅「葛飾北斎」問合せ：03-4363-6335 講談協会※会場は靴を脱いで上がる形式です。   &nbsp\" />",
+      "description": "毎月1日～3日まで開催講談協会の定席ですチケット予約のフォームからご予約できます開演：13時終演：15時30分頃料金：当日3,000円 ／ 予約2,800円 ／ご贔屓連・25歳以下2,000円（要 身分証明書提示）出演：前座（3名予定）／優星／琴柳／仲入り／すみれ／琴梅「葛飾北斎」問合せ：03-4363-6335 講談協会※会場は靴を脱いで上がる形式です。   &nbsp",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-103/?instance_id=12737",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b4%a5%e3%81%ae%e5%ae%88%e8%ac%9b%e8%ab%87%e4%bc%9a-103/?instance_id=12737",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e8-ac-9b-e8-ab-87-e3-81-ae-e3-81-84-e3-82-8d-e3-81-af-e2-85-b1-e7-94-b0-e8-be-ba-e4-b8-80-e9-82-91-e4-b8-80-e9-96-80-e5-8b-89-e5-bc-b7-e4-bc-9a-47-instance-id-12980",
+      "title": "講談のいろはⅡ 田辺一邑一門勉強会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-03T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,000円出演：凌々／一記／おりびあ／凌鶴／一邑（休演・代演あり）問合せ：kodan.iroha2@gmail.com 田辺一邑一門会    \" />",
+      "description": "講談のいろはⅡ 田辺一邑一門勉強会開演：13時30分料金：2,000円出演：凌々／一記／おりびあ／凌鶴／一邑（休演・代演あり）問合せ：kodan.iroha2@gmail.com 田辺一邑一門会",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%ac%9b%e8%ab%87%e3%81%ae%e3%81%84%e3%82%8d%e3%81%af%e2%85%b1-%e7%94%b0%e8%be%ba%e4%b8%80%e9%82%91%e4%b8%80%e9%96%80%e5%8b%89%e5%bc%b7%e4%bc%9a-47/?instance_id=12980",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%ac%9b%e8%ab%87%e3%81%ae%e3%81%84%e3%82%8d%e3%81%af%e2%85%b1-%e7%94%b0%e8%be%ba%e4%b8%80%e9%82%91%e4%b8%80%e9%96%80%e5%8b%89%e5%bc%b7%e4%bc%9a-47/?instance_id=12980",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
     },
     {
       "id": "kabuki-1001",
@@ -170,9 +197,25 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1001",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1001",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-08-11T07:04:57+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-b5-aa-e6-9b-b2-e5-ae-9a-e5-b8-ad-260-instance-id-12932",
+      "title": "浪曲定席",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-04T12:15:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：貞奈問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表    \" />",
+      "description": "浪曲協会の定席です。開演：12時15分料金：2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：貞奈問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-260/?instance_id=12932",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-260/?instance_id=12932",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
     },
     {
       "id": "ntj-schedule-engei-2026-1101",
@@ -191,9 +234,89 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1101/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1101/",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-26T09:01:28+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e4-b8-80-e9-be-8d-e6-96-8e-e8-b2-9e-e5-bf-83-e4-b8-80-e9-96-80-e3-80-8c-e8-ac-9b-e8-ab-87-e3-82-bc-e3-83-9f-e3-83-8a-e3-83-bc-e3-83-ab-e3-80-8d-65-instance-id-12977",
+      "title": "一龍斎貞心一門「講談ゼミナール」",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-04T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,000円出演：貞昌／貞司／貞奈／貞寿／貞心予約・問合せ：03-6268-9818 （平日１２～１８時）　らくごカフェメール：rakugocafe@hotmail.co.jp    \" />",
+      "description": "開演：13時30分料金：2,000円出演：貞昌／貞司／貞奈／貞寿／貞心予約・問合せ：03-6268-9818 （平日１２～１８時）　らくごカフェメール：rakugocafe@hotmail.co.jp",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e4%b8%80%e9%be%8d%e6%96%8e%e8%b2%9e%e5%bf%83%e4%b8%80%e9%96%80%e3%80%8c%e8%ac%9b%e8%ab%87%e3%82%bc%e3%83%9f%e3%83%8a%e3%83%bc%e3%83%ab%e3%80%8d-65/?instance_id=12977",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e4%b8%80%e9%be%8d%e6%96%8e%e8%b2%9e%e5%bf%83%e4%b8%80%e9%96%80%e3%80%8c%e8%ac%9b%e8%ab%87%e3%82%bc%e3%83%9f%e3%83%8a%e3%83%bc%e3%83%ab%e3%80%8d-65/?instance_id=12977",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e3-80-90-e3-83-81-e3-82-b1-e3-83-83-e3-83-88-e5-ae-8c-e5-a3-b2-e3-80-91-e7-94-b0-e8-be-ba-e3-81-84-e3-81-a1-e3-81-8b-e7-9c-9f-e6-89-93-e6-98-87-e9-80-b2-e6-8a-ab-e9-9c-b2-ef-bc-96-ef-bd-84-ef-bd-81-instance-id-12948",
+      "title": "【チケット完売】田辺いちか真打昇進披露６ＤＡＹＳ　１ＤＡＹ",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-04T18:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "4,000円（全席指定）出演：橘家文吾／春陽／橘家文蔵／柳家喬太郎／仲入り／口上／一邑／いちか「忠僕元助」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-318主催：田辺いちか、 オフィス１０（じゅう） \" />",
+      "description": "※当会のチケットは完売いたしました  田辺いちか真打昇進披露６ＤＡＹＳ　１ＤＡＹ開演：18時30分料金：4,000円（全席指定）出演：橘家文吾／春陽／橘家文蔵／柳家喬太郎／仲入り／口上／一邑／いちか「忠僕元助」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-318主催：田辺いちか、 オフィス１０（じゅう）",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%80%90%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e5%ae%8c%e5%a3%b2%e3%80%91%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81/?instance_id=12948",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%80%90%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e5%ae%8c%e5%a3%b2%e3%80%91%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81/?instance_id=12948",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-b5-aa-e6-9b-b2-e5-ae-9a-e5-b8-ad-261-instance-id-12933",
+      "title": "浪曲定席",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-05T12:15:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：小琴問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表    \" />",
+      "description": "浪曲協会の定席です。開演：12時15分料金：2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：小琴問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-261/?instance_id=12933",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-261/?instance_id=12933",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e3-81-af-e3-81-aa-e3-81-b6-e3-81-95-e4-bc-9a-68-instance-id-12247",
+      "title": "はなぶさ会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-05T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日2,000円 ／ ご贔屓連1,500円出演：前座2名／貞司／琴凌／仲入り／優星／伊織問合せ：03-3232-1251　新宿永谷ホール    \" />",
+      "description": "開演：13時料金：当日2,000円 ／ ご贔屓連1,500円出演：前座2名／貞司／琴凌／仲入り／優星／伊織問合せ：03-3232-1251　新宿永谷ホール",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%81%af%e3%81%aa%e3%81%b6%e3%81%95%e4%bc%9a-68/?instance_id=12247",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%81%af%e3%81%aa%e3%81%b6%e3%81%95%e4%bc%9a-68/?instance_id=12247",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e7-94-b0-e8-be-ba-e3-81-84-e3-81-a1-e3-81-8b-e7-9c-9f-e6-89-93-e6-98-87-e9-80-b2-e6-8a-ab-e9-9c-b2-ef-bc-96-ef-bd-84-ef-bd-81-ef-bd-99-ef-bd-93-e3-80-80-ef-bc-92-ef-bd-84-ef-bd-81-ef-bd-99-instance-id-12949",
+      "title": "【チケット完売】田辺いちか真打昇進披露６ＤＡＹＳ　２ＤＡＹ",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-05T18:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "4,000円（全席指定）出演：林家あんこ／琴鶴／林家きく麿／柳家三三／仲入り／口上／一邑／いちか「木村長門守最期」問合せ：office10.jyu@gmail.com オフィス１０主催：田辺いちか、 オフィス１０（じゅう）    \" />",
+      "description": "※当会のチケットは完売いたしました  田辺いちか真打昇進披露６ＤＡＹＳ　２ＤＡＹ開演：18時30分料金：4,000円（全席指定）出演：林家あんこ／琴鶴／林家きく麿／柳家三三／仲入り／口上／一邑／いちか「木村長門守最期」問合せ：office10.jyu@gmail.com オフィス１０主催：田辺いちか、 オフィス１０（じゅう）",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81%ef%bd%99%ef%bd%93%e3%80%80%ef%bc%92%ef%bd%84%ef%bd%81%ef%bd%99/?instance_id=12949",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81%ef%bd%99%ef%bd%93%e3%80%80%ef%bc%92%ef%bd%84%ef%bd%81%ef%bd%99/?instance_id=12949",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
     },
     {
       "id": "geikyo-jyoseki-17614",
@@ -212,8 +335,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17614",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17614",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -233,9 +356,89 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17646",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17646",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-10T10:02:57+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-b5-aa-e6-9b-b2-e5-ae-9a-e5-b8-ad-262-instance-id-12935",
+      "title": "浪曲定席",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-06T12:15:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：琴鶴問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表    \" />",
+      "description": "浪曲協会の定席です。開演：12時15分料金：2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：琴鶴問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-262/?instance_id=12935",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-262/?instance_id=12935",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e3-80-90-e3-83-81-e3-82-b1-e3-83-83-e3-83-88-e5-ae-8c-e5-a3-b2-e3-80-91-e7-94-b0-e8-be-ba-e3-81-84-e3-81-a1-e3-81-8b-e7-9c-9f-e6-89-93-e6-98-87-e9-80-b2-e6-8a-ab-e9-9c-b2-ef-bc-96-ef-bd-84-ef-bd-81-2-instance-id-12951",
+      "title": "【チケット完売】田辺いちか真打昇進披露６ＤＡＹＳ　３ＤＡＹ",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-06T18:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "4,000円（全席指定）出演：春風亭一花／三遊亭萬橘／春風亭一之輔／貞橘／仲入り／口上／一邑／いちか「一豊と千代」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-320主催：田辺いちか、 オフィス１０（じゅう） \" />",
+      "description": "※当会のチケットは完売いたしました  田辺いちか真打昇進披露６ＤＡＹＳ　３ＤＡＹ開演：18時30分料金：4,000円（全席指定）出演：春風亭一花／三遊亭萬橘／春風亭一之輔／貞橘／仲入り／口上／一邑／いちか「一豊と千代」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-320主催：田辺いちか、 オフィス１０（じゅう）",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%80%90%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e5%ae%8c%e5%a3%b2%e3%80%91%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81-2/?instance_id=12951",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%80%90%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e5%ae%8c%e5%a3%b2%e3%80%91%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81-2/?instance_id=12951",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-b5-aa-e6-9b-b2-e5-ae-9a-e5-b8-ad-263-instance-id-12936",
+      "title": "浪曲定席",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-07T12:15:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：凌天問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表    \" />",
+      "description": "浪曲協会の定席です。開演：12時15分料金：2,500円（25歳以下半額）浪曲定席は毎月1～7日開催。そのうち協会員出演は4～7日講談出演時間は14:35分ごろとなります本日の協会員出演：凌天問合せ：03-3844-6293　木馬亭出演者詳細は日本浪曲協会ページをご覧下さい。浪曲木馬亭定席　番組表",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-263/?instance_id=12936",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b5%aa%e6%9b%b2%e5%ae%9a%e5%b8%ad-263/?instance_id=12936",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-9c-ac-e7-89-a7-e4-ba-ad-e8-ac-9b-e8-ab-87-e4-bc-9a-120-instance-id-12437",
+      "title": "本牧亭講談会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-07T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,000円出演：前座／優星／一乃／仲入り／柳家小志ん／山緑問合せ：090-3203-9040　清水   \" />",
+      "description": "本牧亭主催の講談会です開演：13時料金：2,000円出演：前座／優星／一乃／仲入り／柳家小志ん／山緑問合せ：090-3203-9040　清水",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%9c%ac%e7%89%a7%e4%ba%ad%e8%ac%9b%e8%ab%87%e4%bc%9a-120/?instance_id=12437",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%9c%ac%e7%89%a7%e4%ba%ad%e8%ac%9b%e8%ab%87%e4%bc%9a-120/?instance_id=12437",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-9c-ac-e7-89-a7-e4-ba-ad-e8-ac-9b-e8-ab-87-e4-bc-9a-121-instance-id-12439",
+      "title": "本牧亭講談会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-08T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,000円出演：前座／小琴／菫花／仲入り／柳家緑也／貞橘問合せ：090-3203-9040　清水    \" />",
+      "description": "本牧亭主催の講談会です開演：13時料金：2,000円出演：前座／小琴／菫花／仲入り／柳家緑也／貞橘問合せ：090-3203-9040　清水",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%9c%ac%e7%89%a7%e4%ba%ad%e8%ac%9b%e8%ab%87%e4%bc%9a-121/?instance_id=12439",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%9c%ac%e7%89%a7%e4%ba%ad%e8%ac%9b%e8%ab%87%e4%bc%9a-121/?instance_id=12439",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
     },
     {
       "id": "geikyo-jyoseki-17616",
@@ -254,8 +457,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17616",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17616",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-29T10:06:33+09:00"
     },
     {
@@ -275,8 +478,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17678",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17678",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-17T08:44:57+09:00"
     },
     {
@@ -296,9 +499,169 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17628",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17628",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-03T09:36:59+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e5-89-8d-e5-ba-a7-e5-8b-89-e5-bc-b7-e4-bc-9a-53-instance-id-12834",
+      "title": "前座勉強会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-11T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日・予約・ご贔屓連ともに1,500円出演：山兎／凌々／ようかん補導出演：琴調問合せ：03-4363-6335 講談協会※出演者は変更する場合があります。    \" />",
+      "description": "こちらの会はチケット予約のフォームからご予約いただけます開演：13時料金：当日・予約・ご贔屓連ともに1,500円出演：山兎／凌々／ようかん補導出演：琴調問合せ：03-4363-6335 講談協会※出演者は変更する場合があります。",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e5%89%8d%e5%ba%a7%e5%8b%89%e5%bc%b7%e4%bc%9a-53/?instance_id=12834",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e5%89%8d%e5%ba%a7%e5%8b%89%e5%bc%b7%e4%bc%9a-53/?instance_id=12834",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e3-82-8a-e3-81-95-e8-ac-9b-e8-ab-87-e4-bc-9a-11-instance-id-12983",
+      "title": "りさ講談会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-11T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "1,500円出演：神田紅希／伊織／神田紅純問合せ：lisacafe2023@gmail.com りさカフェ    \" />",
+      "description": "開演：14時料金：1,500円出演：神田紅希／伊織／神田紅純問合せ：lisacafe2023@gmail.com りさカフェ",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%82%8a%e3%81%95%e8%ac%9b%e8%ab%87%e4%bc%9a-11/?instance_id=12983",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%82%8a%e3%81%95%e8%ac%9b%e8%ab%87%e4%bc%9a-11/?instance_id=12983",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e7-94-b0-e8-be-ba-e3-81-84-e3-81-a1-e3-81-8b-e7-9c-9f-e6-89-93-e6-98-87-e9-80-b2-e6-8a-ab-e9-9c-b2-ef-bc-96-ef-bd-84-ef-bd-81-ef-bd-99-ef-bd-93-e3-80-80-ef-bc-94-ef-bd-84-ef-bd-81-ef-bd-99-instance-id-12952",
+      "title": "【チケット完売】田辺いちか真打昇進披露６ＤＡＹＳ　４ＤＡＹ",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-12T18:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "4,000円（全席指定）出演：神田紅純／一龍斎貞鏡／古今亭菊之丞／旭堂南海／仲入り／口上／一邑／いちか「三方目出鯛」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-323主催：田辺いちか、 オフィス１０（じゅう）&nbsp\" />",
+      "description": "※当会のチケットは完売いたしました  田辺いちか真打昇進披露６ＤＡＹＳ　４ＤＡＹ開演：18時30分料金：4,000円（全席指定）出演：神田紅純／一龍斎貞鏡／古今亭菊之丞／旭堂南海／仲入り／口上／一邑／いちか「三方目出鯛」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-323主催：田辺いちか、 オフィス１０（じゅう）&nbsp",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81%ef%bd%99%ef%bd%93%e3%80%80%ef%bc%94%ef%bd%84%ef%bd%81%ef%bd%99/?instance_id=12952",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81%ef%bd%99%ef%bd%93%e3%80%80%ef%bc%94%ef%bd%84%ef%bd%81%ef%bd%99/?instance_id=12952",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e7-a5-9e-e7-94-b0-e7-b9-94-e9-9f-b3-e7-8b-ac-e6-bc-94-e4-bc-9a-e3-80-80-ef-bd-9e-e6-98-bc-e4-b8-8b-e3-81-8c-e3-82-8a-e9-ac-bc-e3-81-ae-e5-b1-85-e3-81-ac-e9-96-93-e3-81-ae-e8-ac-9b-e8-ab-87-17-instance-id-12937",
+      "title": "神田織音独演会　～昼下がり鬼の居ぬ間の講談会～",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-13T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日2,300円 ／ 予約2,000円 ／ 障害者手帳をご提示でご本人と介助者1名まで1,500円出演：織音予約・問合せ：03-6268-9818 （平日１２～１８時）　らくごカフェメール：rakugocafe@hotmail.co.jp    \" />",
+      "description": "開演：14時料金：当日2,300円 ／ 予約2,000円 ／ 障害者手帳をご提示でご本人と介助者1名まで1,500円出演：織音予約・問合せ：03-6268-9818 （平日１２～１８時）　らくごカフェメール：rakugocafe@hotmail.co.jp",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%a5%9e%e7%94%b0%e7%b9%94%e9%9f%b3%e7%8b%ac%e6%bc%94%e4%bc%9a%e3%80%80%ef%bd%9e%e6%98%bc%e4%b8%8b%e3%81%8c%e3%82%8a%e9%ac%bc%e3%81%ae%e5%b1%85%e3%81%ac%e9%96%93%e3%81%ae%e8%ac%9b%e8%ab%87-17/?instance_id=12937",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%a5%9e%e7%94%b0%e7%b9%94%e9%9f%b3%e7%8b%ac%e6%bc%94%e4%bc%9a%e3%80%80%ef%bd%9e%e6%98%bc%e4%b8%8b%e3%81%8c%e3%82%8a%e9%ac%bc%e3%81%ae%e5%b1%85%e3%81%ac%e9%96%93%e3%81%ae%e8%ac%9b%e8%ab%87-17/?instance_id=12937",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e8-83-bd-e5-a4-a9-e8-a8-98-e4-ba-88-e5-a0-b1-ef-bd-9e-e5-87-8c-e5-a4-a9-e3-83-bb-e4-b8-80-e8-a8-98-e8-ac-9b-e8-ab-87-e5-8b-89-e5-bc-b7-e4-bc-9a-9-instance-id-12979",
+      "title": "能天記予報～凌天・一記講談勉強会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-13T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日2,300円 ／ 予約2,000円出演：一記／凌天予約：03-6268-9818 （平日１２～１８時）らくごカフェ予約メール：rakugocafe@hotmail.co.jp　らくごカフェ    \" />",
+      "description": "開演：19時料金：当日2,300円 ／ 予約2,000円出演：一記／凌天予約：03-6268-9818 （平日１２～１８時）らくごカフェ予約メール：rakugocafe@hotmail.co.jp　らくごカフェ",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%83%bd%e5%a4%a9%e8%a8%98%e4%ba%88%e5%a0%b1%ef%bd%9e%e5%87%8c%e5%a4%a9%e3%83%bb%e4%b8%80%e8%a8%98%e8%ac%9b%e8%ab%87%e5%8b%89%e5%bc%b7%e4%bc%9a-9/?instance_id=12979",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e8%83%bd%e5%a4%a9%e8%a8%98%e4%ba%88%e5%a0%b1%ef%bd%9e%e5%87%8c%e5%a4%a9%e3%83%bb%e4%b8%80%e8%a8%98%e8%ac%9b%e8%ab%87%e5%8b%89%e5%bc%b7%e4%bc%9a-9/?instance_id=12979",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e7-94-b0-e8-be-ba-e3-81-84-e3-81-a1-e3-81-8b-e7-9c-9f-e6-89-93-e6-98-87-e9-80-b2-e6-8a-ab-e9-9c-b2-ef-bc-96-ef-bd-84-ef-bd-81-ef-bd-99-ef-bd-93-e3-80-80-ef-bc-95-ef-bd-84-ef-bd-81-ef-bd-99-instance-id-12953",
+      "title": "【チケット完売】田辺いちか真打昇進披露６ＤＡＹＳ　５ＤＡＹ",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-13T18:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "4,000円（全席指定）出演：春風亭一花／銀冶／古今亭文菊／三遊亭兼好／仲入り／口上／一邑／いちか「鉄砲のお熊」問合せ：office10.jyu@gmail.com オフィス１０主催：田辺いちか、 オフィス１０（じゅう）    \" />",
+      "description": "※当会のチケットは完売いたしました  田辺いちか真打昇進披露６ＤＡＹＳ　５ＤＡＹ開演：18時30分料金：4,000円（全席指定）出演：春風亭一花／銀冶／古今亭文菊／三遊亭兼好／仲入り／口上／一邑／いちか「鉄砲のお熊」問合せ：office10.jyu@gmail.com オフィス１０主催：田辺いちか、 オフィス１０（じゅう）",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81%ef%bd%99%ef%bd%93%e3%80%80%ef%bc%95%ef%bd%84%ef%bd%81%ef%bd%99/?instance_id=12953",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81%ef%bd%99%ef%bd%93%e3%80%80%ef%bc%95%ef%bd%84%ef%bd%81%ef%bd%99/?instance_id=12953",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-b3-89-e5-b2-b3-e5-af-ba-e8-ac-9b-e8-ab-87-e4-bc-9a-55-instance-id-12750",
+      "title": "泉岳寺講談会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-14T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "3,000円出演：神田梅之丞「青龍刀権次」／神田鯉風「義士銘々伝　近松勘六」／仲入り／春陽「山内一豊」／琴柳「万両婿」問合せ：sgjkodan@outlook.jpチケットの予約は下記の予約フォームにて、当月の月初より受付開始予定です。泉岳寺講談会チケット予約フォーム：https://select-type.com/ev/?ev=gbBnrISnBiIチケット予約開始日や\" />",
+      "description": "第57回　泉岳寺講談会12月を除く毎月14日開催開演：13時料金：3,000円出演：神田梅之丞「青龍刀権次」／神田鯉風「義士銘々伝　近松勘六」／仲入り／春陽「山内一豊」／琴柳「万両婿」問合せ：sgjkodan@outlook.jpチケットの予約は下記の予約フォームにて、当月の月初より受付開始予定です。泉岳寺講談会チケット予約フォーム：https://select-type.com/ev/?ev=gbBnrISnBiIチケット予約開始日や",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b3%89%e5%b2%b3%e5%af%ba%e8%ac%9b%e8%ab%87%e4%bc%9a-55/?instance_id=12750",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%b3%89%e5%b2%b3%e5%af%ba%e8%ac%9b%e8%ab%87%e4%bc%9a-55/?instance_id=12750",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e3-80-90-e3-83-81-e3-82-b1-e3-83-83-e3-83-88-e5-ae-8c-e5-a3-b2-e3-80-91-e7-94-b0-e8-be-ba-e3-81-84-e3-81-a1-e3-81-8b-e7-9c-9f-e6-89-93-e6-98-87-e9-80-b2-e6-8a-ab-e9-9c-b2-ef-bc-96-ef-bd-84-ef-bd-81-3-instance-id-12954",
+      "title": "【チケット完売】田辺いちか真打昇進披露６ＤＡＹＳ　６ＤＡＹ　千穐楽！",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-14T16:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "4,500円（全席指定）出演：琴凌／神田伯山／神田愛山／琴調／仲入り／口上／一邑／いちか「曲馬団の女」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-329主催：田辺いちか、 オフィス１０（じゅう）\" />",
+      "description": "※当会のチケットは完売いたしました   田辺いちか真打昇進披露６ＤＡＹＳ　６ＤＡＹ　千穐楽！開演：16時30分料金：4,500円（全席指定）出演：琴凌／神田伯山／神田愛山／琴調／仲入り／口上／一邑／いちか「曲馬団の女」問合せ：office10.jyu@gmail.com オフィス１０チケット販売・チケットぴあ　Pコード543-329主催：田辺いちか、 オフィス１０（じゅう）",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%80%90%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e5%ae%8c%e5%a3%b2%e3%80%91%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81-3/?instance_id=12954",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%80%90%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e5%ae%8c%e5%a3%b2%e3%80%91%e7%94%b0%e8%be%ba%e3%81%84%e3%81%a1%e3%81%8b%e7%9c%9f%e6%89%93%e6%98%87%e9%80%b2%e6%8a%ab%e9%9c%b2%ef%bc%96%ef%bd%84%ef%bd%81-3/?instance_id=12954",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e5-ae-9d-e4-ba-95-e7-90-b4-e9-b6-b4-e3-80-80-e5-8f-a4-e5-85-b8-e3-81-bf-e3-81-a1-2-instance-id-12944",
+      "title": "宝井琴鶴　古典みち",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-15T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "3,500円（全席指定）出演：琴人／寿 二ツ目昇進 優星／琴鶴「義士銘々伝　神崎与五郎　東下り」他前売・問合せ：045-231-2515　横浜にぎわい座（受付時間10時～20時）※にぎわい座ホームページにてチケットの購入ができますにぎわい座ホームページhttps://nigiwaiza.yafjp.org/perform/archives/32340   &nbs\" />",
+      "description": "開演：14時料金 ：3,500円（全席指定）出演：琴人／寿 二ツ目昇進 優星／琴鶴「義士銘々伝　神崎与五郎　東下り」他前売・問合せ：045-231-2515　横浜にぎわい座（受付時間10時～20時）※にぎわい座ホームページにてチケットの購入ができますにぎわい座ホームページhttps://nigiwaiza.yafjp.org/perform/archives/32340   &nbs",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e5%ae%9d%e4%ba%95%e7%90%b4%e9%b6%b4%e3%80%80%e5%8f%a4%e5%85%b8%e3%81%bf%e3%81%a1-2/?instance_id=12944",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e5%ae%9d%e4%ba%95%e7%90%b4%e9%b6%b4%e3%80%80%e5%8f%a4%e5%85%b8%e3%81%bf%e3%81%a1-2/?instance_id=12944",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-98-a5-e9-99-bd-e5-85-9a-e5-a4-a7-e4-bc-9a-12-instance-id-12955",
+      "title": "春陽党大会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-15T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日3,500円／予約3,000円出演：春陽 「藪原検校」助演／坂本頼光（活動写真弁士）予約・問合せ：03-6268-9818 （平日１２～１８時）　らくごカフェメール：rakugocafe@hotmail.co.jp    \" />",
+      "description": "開演：18時料金：当日3,500円／予約3,000円出演：春陽 「藪原検校」助演／坂本頼光（活動写真弁士）予約・問合せ：03-6268-9818 （平日１２～１８時）　らくごカフェメール：rakugocafe@hotmail.co.jp",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%98%a5%e9%99%bd%e5%85%9a%e5%a4%a7%e4%bc%9a-12/?instance_id=12955",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%98%a5%e9%99%bd%e5%85%9a%e5%a4%a7%e4%bc%9a-12/?instance_id=12955",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
     },
     {
       "id": "geikyo-jyoseki-17617",
@@ -317,8 +680,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17617",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17617",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-30T09:37:17+09:00"
     },
     {
@@ -338,8 +701,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17638",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17638",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
     },
     {
@@ -359,9 +722,91 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1102/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1102/",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e7-ac-ac256-e5-9b-9e-e4-b8-80-e9-be-8d-e6-96-8e-e8-b2-9e-e8-8a-b1-e3-81-ae-e4-bc-9a-instance-id-12963",
+      "title": "第256回 一龍斎貞花の会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-17T17:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日3,000円 ／ 前売・ご贔屓連2,500円山兎／蓮陽／貞弥／柳家さん助貞花演題：心温まる「雪の夜話」／義士銘々伝「岡野金右衛門 恋の絵図面取り」問合せ：03-5673-2300　貞花    \" />",
+      "description": "第256回 一龍斎貞花の会開演：17時30分料金：当日3,000円 ／ 前売・ご贔屓連2,500円山兎／蓮陽／貞弥／柳家さん助貞花演題：心温まる「雪の夜話」／義士銘々伝「岡野金右衛門 恋の絵図面取り」問合せ：03-5673-2300　貞花",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%ac%ac256%e5%9b%9e-%e4%b8%80%e9%be%8d%e6%96%8e%e8%b2%9e%e8%8a%b1%e3%81%ae%e4%bc%9a/?instance_id=12963",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e7%ac%ac256%e5%9b%9e-%e4%b8%80%e9%be%8d%e6%96%8e%e8%b2%9e%e8%8a%b1%e3%81%ae%e4%bc%9a/?instance_id=12963",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e3-81-aa-e3-81-a7-e3-81-97-e3-81-93-e3-81-8f-e3-82-89-e3-81-b6-60-instance-id-12769",
+      "title": "なでしこくらぶ",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-18T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "当日2,500円 ／ 前売・予約2,000円 ／ 団体割引（10名様以上）1,800円出演者： こなぎ／貞寿／あおい／一凜／織音問合せ： 048-989-4769　すみれ    \" />",
+      "description": "開演：13時料金：当日2,500円 ／ 前売・予約2,000円 ／ 団体割引（10名様以上）1,800円出演者： こなぎ／貞寿／あおい／一凜／織音問合せ： 048-989-4769　すみれ",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%81%aa%e3%81%a7%e3%81%97%e3%81%93%e3%81%8f%e3%82%89%e3%81%b6-60/?instance_id=12769",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e3%81%aa%e3%81%a7%e3%81%97%e3%81%93%e3%81%8f%e3%82%89%e3%81%b6-60/?instance_id=12769",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-96-b0-e5-ae-bf-e8-ac-9b-e8-ab-87-e4-bc-9a-e3-80-80-e6-98-bc-e5-b8-ad-32-instance-id-12701",
+      "title": "新宿講談会　昼席",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-19T13:30:00+09:00",
+      "area": "新宿",
+      "prefecture": "東京都",
+      "priceText": "当日3,000円 ／ 予約2,800円 ／ご贔屓連2,000円出演：おりびあ／貞司／鶴女／仲入り／山緑／貞寿「殿中刃傷」問合せ：03-4363-6335 講談協会※新宿講談会は同日に夜席の公演もございます。※予約フォームの”ご予約の会”の選択は、新宿（昼）又は新宿（夜）をお選びください。※昼夜は入れ替え制です。&\" />",
+      "description": "講談協会の定席ですチケット予約のフォームからご予約できます開演：13時終演：15時30分から16時の間を予定料金：当日3,000円 ／ 予約2,800円 ／ご贔屓連2,000円出演：おりびあ／貞司／鶴女／仲入り／山緑／貞寿「殿中刃傷」問合せ：03-4363-6335 講談協会※新宿講談会は同日に夜席の公演もございます。※予約フォームの”ご予約の会”の選択は、新宿（昼）又は新宿（夜）をお選びください。※昼夜は入れ替え制です。&",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e6%98%bc%e5%b8%ad-32/?instance_id=12701",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e6%98%bc%e5%b8%ad-32/?instance_id=12701",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e9-80-a3-e7-b6-9a-e8-ac-9b-e8-ab-87-e5-8b-89-e5-bc-b7-e4-bc-9a-33-instance-id-12410",
+      "title": "連続講談勉強会",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-19T13:30:00+09:00",
+      "prefecture": "東京都",
+      "priceText": "2,500円出演：琴人／凌々／一記「薮井玄意」／凌天「妲己のお百」／琴凌「宋朝水滸伝」／菫花「佐倉義民伝」／一乃「永井源三郎」問合せ： renzokukodan@gmail.com※出演者休演、順番変更、演目変更をすることがございます。    \" />",
+      "description": "田辺一邑主催の連続講談の勉強会です開演：13時料金：2,500円出演：琴人／凌々／一記「薮井玄意」／凌天「妲己のお百」／琴凌「宋朝水滸伝」／菫花「佐倉義民伝」／一乃「永井源三郎」問合せ： renzokukodan@gmail.com※出演者休演、順番変更、演目変更をすることがございます。",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e9%80%a3%e7%b6%9a%e8%ac%9b%e8%ab%87%e5%8b%89%e5%bc%b7%e4%bc%9a-33/?instance_id=12410",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e9%80%a3%e7%b6%9a%e8%ac%9b%e8%ab%87%e5%8b%89%e5%bc%b7%e4%bc%9a-33/?instance_id=12410",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
+    },
+    {
+      "id": "kodankyokai-https-kodankyokai-jp-e6-96-b0-e5-ae-bf-e8-ac-9b-e8-ab-87-e4-bc-9a-e3-80-80-e5-a4-9c-e5-b8-ad-34-instance-id-12709",
+      "title": "新宿講談会　夜席",
+      "category": "kodan",
+      "categoryLabel": "講談",
+      "startAt": "2026-11-19T13:30:00+09:00",
+      "area": "新宿",
+      "prefecture": "東京都",
+      "priceText": "当日3,000円 ／ 予約2,800円 ／ご贔屓連2,000円出演：銀冶「八ツ橋を見初める」／琴凌「八ツ橋愛想尽かし」／仲入り／銀冶「八ツ橋楼普請」／琴凌「次郎左衛門の最期」問合せ：03-4363-6335 講談協会※新宿講談会は同日に昼席の公演もございます。※予約フ\" />",
+      "description": "講談協会の定席ですチケット予約のフォームからご予約できます銀冶・琴凌俥読み新吉原百人斬【次郎左衛門編】開演：18時終演：20時40分までに終演予定料金：当日3,000円 ／ 予約2,800円 ／ご贔屓連2,000円出演：銀冶「八ツ橋を見初める」／琴凌「八ツ橋愛想尽かし」／仲入り／銀冶「八ツ橋楼普請」／琴凌「次郎左衛門の最期」問合せ：03-4363-6335 講談協会※新宿講談会は同日に昼席の公演もございます。※予約フ",
+      "sourceName": "講談協会",
+      "sourceURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e5%a4%9c%e5%b8%ad-34/?instance_id=12709",
+      "ticketURL": "https://kodankyokai.jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%e6%96%b0%e5%ae%bf%e8%ac%9b%e8%ab%87%e4%bc%9a%e3%80%80%e5%a4%9c%e5%b8%ad-34/?instance_id=12709",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
+      "firstSeenAt": "2026-11-01T09:16:15+09:00"
     },
     {
       "id": "geikyo-jyoseki-17667",
@@ -380,8 +825,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17667",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17667",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -401,8 +846,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17663",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17663",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -422,8 +867,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17629",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17629",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-03T09:36:59+09:00"
     },
     {
@@ -443,8 +888,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17664",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17664",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -464,8 +909,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17666",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17666",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-14T09:25:59+09:00"
     },
     {
@@ -485,8 +930,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1103/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1103/",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-19T08:25:42+09:00"
     },
     {
@@ -503,8 +948,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/994",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/994",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-07T07:58:41+09:00"
     },
     {
@@ -524,8 +969,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17686",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17686",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-21T09:00:53+09:00"
     },
     {
@@ -541,8 +986,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/987",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/987",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -562,8 +1007,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17702",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17702",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-29T10:06:00+09:00"
     },
     {
@@ -583,8 +1028,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1201/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1201/",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-27T09:39:17+09:00"
     },
     {
@@ -604,8 +1049,8 @@
       "sourceName": "落語芸術協会",
       "sourceURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17687",
       "ticketURL": "https://www.geikyo.com/schedule/jyoseki_detail?id=17687",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-21T09:00:53+09:00"
     },
     {
@@ -620,8 +1065,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1009",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1009",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-18T08:37:17+09:00"
     },
     {
@@ -641,8 +1086,8 @@
       "sourceName": "国立演芸場",
       "sourceURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1203/",
       "ticketURL": "https://www.ntj.jac.go.jp/schedule/engei/2026/1203/",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-15T09:00:52+09:00"
     },
     {
@@ -658,8 +1103,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/997",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/997",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-07-18T07:12:17+09:00"
     },
     {
@@ -676,8 +1121,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1000",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1000",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-08-04T07:32:13+09:00"
     },
     {
@@ -693,8 +1138,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/shinbashi/play/1010",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/shinbashi/play/1010",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-30T10:11:41+09:00"
     },
     {
@@ -710,8 +1155,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1011",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1011",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
     },
     {
@@ -728,8 +1173,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/975",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/975",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-07-12T07:13:35+09:00"
     },
     {
@@ -745,8 +1190,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1006",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1006",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-08-30T08:28:21+09:00"
     },
     {
@@ -762,8 +1207,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/998",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/998",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-07-18T07:12:17+09:00"
     },
     {
@@ -780,8 +1225,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/956",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/956",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-06-16T14:13:33+09:00"
     },
     {
@@ -797,8 +1242,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/999",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kabukiza/play/999",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-07-18T07:12:17+09:00"
     },
     {
@@ -814,8 +1259,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1002",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1002",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-31T09:55:35+09:00"
     },
     {
@@ -831,8 +1276,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1013",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1013",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-17T08:44:57+09:00"
     },
     {
@@ -848,8 +1293,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/other/play/1012",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/other/play/1012",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-10-08T10:07:39+09:00"
     },
     {
@@ -866,8 +1311,8 @@
       "sourceName": "歌舞伎美人",
       "sourceURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/1008",
       "ticketURL": "https://www.kabuki-bito.jp/theaters/kyoto/play/1008",
-      "lastConfirmedAt": "2026-10-31T09:55:35+09:00",
-      "fetchedAt": "2026-10-31T09:55:35+09:00",
+      "lastConfirmedAt": "2026-11-01T09:16:15+09:00",
+      "fetchedAt": "2026-11-01T09:16:15+09:00",
       "firstSeenAt": "2026-09-10T08:23:54+09:00"
     }
   ]
