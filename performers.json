@@ -1,8 +1,8 @@
 {
   "sourceName": "落語協会",
   "sourceURL": "https://www.rakugo-kyokai.jp/members",
-  "fetchedAt": "2026-11-16T01:11:32+00:00",
-  "count": 307,
+  "fetchedAt": "2026-11-17T04:03:53+00:00",
+  "count": 306,
   "performers": [
     {
       "id": "11knaxeb0",
@@ -11865,67 +11865,6 @@
             "全て表示"
           ],
           "content": "二ツ目昇進"
-        }
-      ]
-    },
-    {
-      "id": "7tz6u1komfyk",
-      "displayName": "金原亭 馬太郎",
-      "normalizedName": "金原亭馬太郎",
-      "geimei": "馬太郎",
-      "teigo": "金原亭",
-      "displayNameKana": "きんげんてい うまたろう",
-      "realName": "高橋 利幸",
-      "realNameKana": "たかはし としゆき",
-      "ranks": [
-        "二ツ目"
-      ],
-      "category": "二ツ目",
-      "categoryPath": "/members/f",
-      "status": "active",
-      "birthDate": "1990-05-28T15:00:00.000Z",
-      "birthDateFormat": [
-        "全て表示"
-      ],
-      "birthPlace": "東京都",
-      "debayashi": "トコトン節",
-      "crest": "鬼蔦",
-      "keyword": "金原亭馬太郎",
-      "websiteURL": "https://www.instagram.com/kingentei.umataro/",
-      "profileURL": "https://www.rakugo-kyokai.jp/members/7tz6u1komfyk",
-      "photoURL": "https://images.microcms-assets.io/assets/0a8b1dbfe0274d56a9d911b8f46e75c9/35594e647d4e46409cdae48a2773d4b8/249%E3%80%80%E9%87%91%E5%8E%9F%E4%BA%AD%E9%A6%AC%E5%A4%AA%E9%83%8E.jpg",
-      "sourceUpdatedAt": "2026-10-25T06:17:40.918Z",
-      "sourcePublishedAt": "2023-09-06T09:31:03.462Z",
-      "careerHighlights": [
-        {
-          "date": "2013-12-31T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "十一代目金原亭馬生に入門"
-        },
-        {
-          "date": "2015-05-20T15:00:00.000Z",
-          "dateFormat": [
-            "全て表示"
-          ],
-          "content": "前座となる　前座名「駒六」"
-        },
-        {
-          "date": "2019-02-10T15:00:00.000Z",
-          "dateFormat": [
-            "全て表示"
-          ],
-          "content": "二ツ目昇進　「馬太郎」と改名"
-        }
-      ],
-      "prizeHighlights": [
-        {
-          "date": "2026-09-04T15:00:00.000Z",
-          "dateFormat": [
-            "年月のみ表示"
-          ],
-          "content": "第37回北とぴあ若手落語家競演会　奨励賞"
         }
       ]
     },
